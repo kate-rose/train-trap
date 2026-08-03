@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#141009"/>
+  <!-- river -->
+  <path d="M0 470 Q 300 440 600 470 T 1200 465 L 1200 675 L 0 675 Z" fill="#241a0c"/>
+  <path d="M0 500 Q 300 475 600 500 T 1200 495" stroke="#6e4c0a" stroke-width="3" fill="none"/>
+  <path d="M0 540 Q 300 520 600 540 T 1200 535" stroke="#4a340c" stroke-width="2" fill="none"/>
+  <!-- rails -->
+  <rect x="0" y="430" width="1200" height="6" fill="#3a2c12"/>
+  <!-- train -->
+  <g fill="#0c0906" stroke="#ffb000" stroke-width="4">
+    <rect x="180" y="320" width="300" height="110" rx="8"/>
+    <rect x="500" y="320" width="300" height="110" rx="8"/>
+    <rect x="820" y="320" width="300" height="110" rx="8"/>
+  </g>
+  <text x="330" y="388" fill="#ffb000" font-family="monospace" font-size="40" text-anchor="middle">TEST</text>
+  <text x="650" y="388" fill="#ffb000" font-family="monospace" font-size="40" text-anchor="middle">FRAME</text>
+  <text x="970" y="388" fill="#b07a10" font-family="monospace" font-size="30" text-anchor="middle">no feed yet</text>
+  <text x="40" y="80" fill="#b07a10" font-family="monospace" font-size="28">TRAIN TRAP · smoke test image</text>
+  <text x="40" y="120" fill="#6e4c0a" font-family="monospace" font-size="22">replace LIVE_IMAGE_URL with your Dropbox shared link</text>
+</svg>

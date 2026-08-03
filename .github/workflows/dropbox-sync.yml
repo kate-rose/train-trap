@@ -1,0 +1,89 @@
+# Train-art archiver — needs NO Dropbox credentials.
+#
+# The trap publishes its current top-3 art shots at fixed names on a public
+# shared folder link (latest/01.jpg..03.jpg + latest.json with captions).
+# Every 30 minutes this job reads latest.json; any art event it hasn't seen
+# before gets downloaded into gallery/, indexed in gallery/index.json, and
+# manifest.json is regenerated. Commits happen only when new art appears, so
+# the schedule costs nothing on quiet days. GitHub Pages redeploys on push.
+#
+# The live river frame never touches this job — the page pulls it straight
+# from Dropbox client-side.
+
+name: dropbox-sync
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Archive new art from the shared link
+        env:
+          LATEST_JSON_URL: "https://www.dropbox.com/scl/fo/cgs96lxw0okio9a1x7neu/ANTivJ0Pu3jwrkKBZUxfeEQ/latest.json?rlkey=yxbb7e8hzyca1vx2yjyx8rs04&raw=1"
+          IMG01_URL: "https://www.dropbox.com/scl/fo/cgs96lxw0okio9a1x7neu/AK7SintrNt-u5IIrxBMkPRk/01.jpg?rlkey=yxbb7e8hzyca1vx2yjyx8rs04&raw=1"
+          IMG02_URL: "https://www.dropbox.com/scl/fo/cgs96lxw0okio9a1x7neu/AInAM0_ivl0z7cQP6fkCcZY/02.jpg?rlkey=yxbb7e8hzyca1vx2yjyx8rs04&raw=1"
+          IMG03_URL: "https://www.dropbox.com/scl/fo/cgs96lxw0okio9a1x7neu/ALytv86vI0ZK5tFH9MIGNDo/03.jpg?rlkey=yxbb7e8hzyca1vx2yjyx8rs04&raw=1"
+        run: |
+          set -euo pipefail
+          curl -sfL "$LATEST_JSON_URL" -o /tmp/latest.json
+          jq -e '.items | length > 0' /tmp/latest.json > /dev/null
+
+          mkdir -p gallery
+          [ -f gallery/index.json ] || echo '{"entries": []}' > gallery/index.json
+
+          CHANGED=0
+          for i in 0 1 2; do
+            ITEM=$(jq -c ".items[$i] // empty" /tmp/latest.json)
+            [ -n "$ITEM" ] || continue
+            RANK=$(echo "$ITEM" | jq -r .rank)
+            EVENT=$(echo "$ITEM" | jq -r '.event_id[0:6]')
+            CAPTURED=$(echo "$ITEM" | jq -r '.captured_at | floor')
+            DATE=$(date -u -d "@$CAPTURED" +%Y-%m-%d)
+            NAME=$(printf '%s_%02d_%s.jpg' "$DATE" "$RANK" "$EVENT")
+            if [ ! -f "gallery/$NAME" ]; then
+              case "$RANK" in
+                1) URL="$IMG01_URL" ;;
+                2) URL="$IMG02_URL" ;;
+                3) URL="$IMG03_URL" ;;
+                *) continue ;;
+              esac
+              curl -sfL "$URL" -o "gallery/$NAME"
+              jq --argjson item "$ITEM" --arg file "$NAME" \
+                '.entries = ([{file: $file,
+                               event_id: $item.event_id,
+                               rank: $item.rank,
+                               caption: $item.caption,
+                               captured_at: ($item.captured_at | floor)}]
+                             + .entries)' \
+                gallery/index.json > /tmp/index.json
+              mv /tmp/index.json gallery/index.json
+              CHANGED=1
+            fi
+          done
+
+          if [ "$CHANGED" = "1" ]; then
+            jq '{generated: (now | todate), live: null,
+                 images: [.entries
+                          | sort_by([-(.captured_at / 86400 | floor), .rank])
+                          | .[:30][]
+                          | {url: ("gallery/" + .file),
+                             caption: .caption,
+                             ts: (.captured_at | todate)}]}' \
+              gallery/index.json > manifest.json
+          fi
+
+      - name: Commit if changed
+        run: |
+          git config user.name "train-trap-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A gallery manifest.json
+          git diff --cached --quiet || git commit -m "archive new train art"
+          git push
