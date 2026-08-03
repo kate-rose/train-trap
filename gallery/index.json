@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-03_03_747d83.jpg",
+      "event_id": "747d830c16c0",
+      "rank": 3,
+      "caption": "A boxcar with a large graffiti piece in progress: a multi-color design featuring a red and white character with a blue outline, partially obscured by a white rectangular block. The art is mid-execution, with visible spray lines and a mix of bright colors against the car's dark surface.",
+      "captured_at": 1785731013
+    },
+    {
+      "file": "2026-08-03_02_7beacd.jpg",
+      "event_id": "7beacd96c91c",
+      "rank": 2,
+      "caption": "The same Ryder boxcar continues its passage, now showing more of its side. The red 'Ryder' logo and 'Ever better.' text are fully visible. The car is moving left to right, with a stack of concrete sleepers visible behind the track.",
+      "captured_at": 1785724064
+    },
+    {
+      "file": "2026-08-03_01_7beacd.jpg",
+      "event_id": "7beacd96c91c",
+      "rank": 1,
+      "caption": "A white boxcar with a large red 'Ryder' logo and the tagline 'Ever better.' in black text. The logo includes a stylized black swoosh. The car is moving from left to right, partially visible at the bottom of the frame.",
+      "captured_at": 1785724063
+    },
+    {
       "file": "2026-07-18_01_24cd0a.jpg",
       "event_id": "24cd0a4e1fe0",
       "rank": 1,
