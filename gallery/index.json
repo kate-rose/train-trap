@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-07_03_2fa1a1.jpg",
+      "event_id": "2fa1a1964a5a",
+      "rank": 3,
+      "caption": "A maroon BNSF hopper car with the number 486922, featuring a large, well-composed graffiti piece with the word 'LUSHH' in bold yellow letters and a stylized white shape. The train moves past a lake with trees and a distant town.",
+      "captured_at": 1786130583
+    },
+    {
+      "file": "2026-08-07_02_4fb15d.jpg",
+      "event_id": "4fb15db9e07e",
+      "rank": 2,
+      "caption": "A weathered white ADMX hopper car with number 58081, featuring a large blue diamond logo with 'ADM' text. The car shows significant wear and rust, with a faint graffiti tag on the side. It passes a lake with trees in the background.",
+      "captured_at": 1786121173
+    },
+    {
+      "file": "2026-08-07_01_4fb15d.jpg",
+      "event_id": "4fb15db9e07e",
+      "rank": 1,
+      "caption": "A weathered white ADMX hopper car with number 58081, featuring a large blue diamond logo with 'ADM' text. The car shows significant wear and rust, with a faint graffiti tag on the side. It passes a lake with trees in the background.",
+      "captured_at": 1786121173
+    },
+    {
       "file": "2026-08-03_03_747d83.jpg",
       "event_id": "747d830c16c0",
       "rank": 3,
