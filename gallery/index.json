@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-10_03_d2f3a6.jpg",
+      "event_id": "d2f3a64fbebf",
+      "rank": 3,
+      "caption": "A green hopper car with number 202634, featuring a large white graffiti piece with red accents and a stylized design on its side. The car is moving past a body of water with trees and a distant town under a bright sky.",
+      "captured_at": 1786321987
+    },
+    {
+      "file": "2026-08-10_02_d2f3a6.jpg",
+      "event_id": "d2f3a64fbebf",
+      "rank": 2,
+      "caption": "A pink hopper car with a bold black and white graffiti piece that reads 'KONK' in a blocky, geometric style. The artwork dominates the side of the car, which is part of a freight train moving along a track beside a lake.",
+      "captured_at": 1786321945
+    },
+    {
+      "file": "2026-08-10_01_e71c13.jpg",
+      "event_id": "e71c13dc4f60",
+      "rank": 1,
+      "caption": "A boxcar with a large graffiti piece in red and black; the artwork features a stylized character or figure with bold lines and a dynamic pose, painted over the side of the car.",
+      "captured_at": 1786329054
+    },
+    {
       "file": "2026-08-08_03_d655b9.jpg",
       "event_id": "d655b9fcb8a6",
       "rank": 3,
