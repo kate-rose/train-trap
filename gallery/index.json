@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-08_03_d655b9.jpg",
+      "event_id": "d655b9fcb8a6",
+      "rank": 3,
+      "caption": "A boxcar with a large graffiti piece in progress; the artwork features a stylized character or figure in white and gray tones, partially obscured by motion blur, with a dark background. The car is moving through the frame from left to right.",
+      "captured_at": 1786181638
+    },
+    {
+      "file": "2026-08-08_02_411065.jpg",
+      "event_id": "411065a833ea",
+      "rank": 2,
+      "caption": "A dark boxcar with a large, multi-color graffiti piece on its side; the artwork features a stylized face with bold red and blue outlines and a yellow fill, partially obscured by the train's motion. The car is moving through a wooded area at night.",
+      "captured_at": 1786186314
+    },
+    {
+      "file": "2026-08-08_01_411065.jpg",
+      "event_id": "411065a833ea",
+      "rank": 1,
+      "caption": "A boxcar with a large graffiti piece in progress; the artwork features a stylized character or face in white and gray tones, with a dark background. The piece is partially visible, showing bold outlines and shading. The car's reporting mark 'BNSF' is visible in the upper left corner.",
+      "captured_at": 1786186222
+    },
+    {
       "file": "2026-08-07_03_9d7297.jpg",
       "event_id": "9d7297860adb",
       "rank": 3,
