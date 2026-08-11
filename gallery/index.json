@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-11_03_f141cc.jpg",
+      "event_id": "f141cc308102",
+      "rank": 3,
+      "caption": "A dark boxcar continues through the frame, its side marked only by a small white rectangle. The train moves at night with a city skyline visible in the background.",
+      "captured_at": 1786427200
+    },
+    {
+      "file": "2026-08-11_02_d9fabe.jpg",
+      "event_id": "d9fabed4a894",
+      "rank": 2,
+      "caption": "A dark boxcar with a single white rectangular tag on its side, captured in motion; the tag is a simple, unadorned marking with no visible text or design.",
+      "captured_at": 1786428198
+    },
+    {
+      "file": "2026-08-11_01_d9fabe.jpg",
+      "event_id": "d9fabed4a894",
+      "rank": 1,
+      "caption": "A dark boxcar in motion, showing a faint white rectangular tag on its side; the tag is simple and unadorned, with no visible text or design.",
+      "captured_at": 1786428199
+    },
+    {
       "file": "2026-08-10_03_d2f3a6.jpg",
       "event_id": "d2f3a64fbebf",
       "rank": 3,
