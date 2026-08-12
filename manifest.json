@@ -1,16 +1,31 @@
 {
-  "generated": "2026-08-11T08:31:08Z",
+  "generated": "2026-08-12T08:22:54Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-11_01_d52eb2.jpg",
+      "caption": "A maroon BNSF hopper car with the number 496864, featuring a large black and white graffiti piece with the text 'JUDDNDA' and 'JOE KEEN'. The train moves past a lake and trees under bright daylight.",
+      "ts": "2026-08-11T16:05:22Z"
+    },
     {
       "url": "gallery/2026-08-11_01_d9fabe.jpg",
       "caption": "A dark boxcar in motion, showing a faint white rectangular tag on its side; the tag is simple and unadorned, with no visible text or design.",
       "ts": "2026-08-11T06:03:19Z"
     },
     {
+      "url": "gallery/2026-08-11_02_677c01.jpg",
+      "caption": "A maroon BNSF hopper car with the number 489436, covered in a large multi-color graffiti piece in blue, yellow, and white. The artwork includes stylized letters and a circular design. The car is moving past a lake.",
+      "ts": "2026-08-11T14:48:26Z"
+    },
+    {
       "url": "gallery/2026-08-11_02_d9fabe.jpg",
       "caption": "A dark boxcar with a single white rectangular tag on its side, captured in motion; the tag is a simple, unadorned marking with no visible text or design.",
       "ts": "2026-08-11T06:03:18Z"
+    },
+    {
+      "url": "gallery/2026-08-11_03_677c01.jpg",
+      "caption": "A maroon BNSF hopper car with number 478297, featuring a large multi-color graffiti piece in yellow, green, and blue across the side. The artwork is a stylized wildstyle piece with a prominent red outline.",
+      "ts": "2026-08-11T14:49:27Z"
     },
     {
       "url": "gallery/2026-08-11_03_f141cc.jpg",
@@ -136,11 +151,6 @@
       "url": "gallery/2026-05-29_02_8e27e3.jpg",
       "caption": "archive · 2026-05-29",
       "ts": "2026-05-29T19:00:04Z"
-    },
-    {
-      "url": "gallery/2026-05-29_03_8e27e3.jpg",
-      "caption": "archive · 2026-05-29",
-      "ts": "2026-05-29T19:00:03Z"
     }
   ]
 }
