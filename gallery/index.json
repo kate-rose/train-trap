@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-13_03_7fcf1a.jpg",
+      "event_id": "7fcf1afa4cf9",
+      "rank": 3,
+      "caption": "A yellow boxcar features a large, detailed American flag painted on its side, with a red and white striped pattern and a blue field with stars, above a green and blue tag below.",
+      "captured_at": 1786626002
+    },
+    {
+      "file": "2026-08-14_02_5d185e.jpg",
+      "event_id": "5d185e4feaad",
+      "rank": 2,
+      "caption": "A black intermodal container car with a large blue Amazon smile logo painted on its side; the artwork is bold and centered, making it a clear focal point.",
+      "captured_at": 1786678007
+    },
+    {
+      "file": "2026-08-14_01_5d185e.jpg",
+      "event_id": "5d185e4feaad",
+      "rank": 1,
+      "caption": "A double-stacked intermodal container car with a black top container featuring a large blue Amazon smile logo. The container is moving quickly past a fixed camera, creating motion blur. The scene is set beside a body of water with a tree in the foreground and a distant treeline under an overcast sky.",
+      "captured_at": 1786677963
+    },
+    {
       "file": "2026-08-12_03_7c4a3b.jpg",
       "event_id": "7c4a3b2ecd26",
       "rank": 3,

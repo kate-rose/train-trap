@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-13T08:38:52Z",
+  "generated": "2026-08-14T08:20:41Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-14_01_5d185e.jpg",
+      "caption": "A double-stacked intermodal container car with a black top container featuring a large blue Amazon smile logo. The container is moving quickly past a fixed camera, creating motion blur. The scene is set beside a body of water with a tree in the foreground and a distant treeline under an overcast sky.",
+      "ts": "2026-08-14T03:26:03Z"
+    },
+    {
+      "url": "gallery/2026-08-14_02_5d185e.jpg",
+      "caption": "A black intermodal container car with a large blue Amazon smile logo painted on its side; the artwork is bold and centered, making it a clear focal point.",
+      "ts": "2026-08-14T03:26:47Z"
+    },
+    {
+      "url": "gallery/2026-08-13_03_7fcf1a.jpg",
+      "caption": "A yellow boxcar features a large, detailed American flag painted on its side, with a red and white striped pattern and a blue field with stars, above a green and blue tag below.",
+      "ts": "2026-08-13T13:00:02Z"
+    },
     {
       "url": "gallery/2026-08-12_01_cdcf35.jpg",
       "caption": "A red BNSF hopper car with a large white stencil-style artwork depicting a figure and abstract shapes, moving past a lake in bright daylight.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-07-18_02_33152c.jpg",
       "caption": "A flatcar loaded with stacked white packages featuring a blue logo, with a yellow frame. The train moves past a lake under bright daylight.",
       "ts": "2026-07-18T19:24:17Z"
-    },
-    {
-      "url": "gallery/2026-07-18_03_33152c.jpg",
-      "caption": "A flatcar loaded with stacked white packages featuring a blue logo, with a yellow frame. The train moves past a lake under bright daylight.",
-      "ts": "2026-07-18T19:24:16Z"
-    },
-    {
-      "url": "gallery/2026-05-30_01_a1ecd0.jpg",
-      "caption": "archive · 2026-05-30",
-      "ts": "2026-05-30T19:00:05Z"
-    },
-    {
-      "url": "gallery/2026-05-30_02_d940d2.jpg",
-      "caption": "archive · 2026-05-30",
-      "ts": "2026-05-30T19:00:04Z"
     }
   ]
 }
