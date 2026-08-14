@@ -367,14 +367,14 @@ const CONFIG = {
       a.href = normalizeDropbox(item.url);
       a.target = "_blank";
       a.rel = "noopener";
-      if (item.caption) a.title = item.caption;
       const img = document.createElement("img");
       img.loading = "lazy";
+      // long description stays as alt for search + screen readers; label is date-only
       img.alt = item.caption || "train photo";
       img.src = normalizeDropbox(item.url);
       const cap = document.createElement("div");
       cap.className = "cap";
-      cap.textContent = item.caption || item.ts || "";
+      cap.textContent = (item.ts || item.url).match(/\d{4}-\d{2}-\d{2}/)?.[0] || "";
       a.append(img, cap);
       gallery.append(a);
     }
