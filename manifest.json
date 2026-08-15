@@ -1,16 +1,31 @@
 {
-  "generated": "2026-08-14T08:20:41Z",
+  "generated": "2026-08-15T07:35:22Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-14_01_0a0db8.jpg",
+      "caption": "A flatcar loaded with stacks of white panels branded 'OSI Lumber' in red and black text, moving through a scenic view of a lake and trees. The car's red frame and yellow safety railings are visible, and the repeating logo creates a strong graphic pattern.",
+      "ts": "2026-08-14T18:47:47Z"
+    },
     {
       "url": "gallery/2026-08-14_01_5d185e.jpg",
       "caption": "A double-stacked intermodal container car with a black top container featuring a large blue Amazon smile logo. The container is moving quickly past a fixed camera, creating motion blur. The scene is set beside a body of water with a tree in the foreground and a distant treeline under an overcast sky.",
       "ts": "2026-08-14T03:26:03Z"
     },
     {
+      "url": "gallery/2026-08-14_02_0a0db8.jpg",
+      "caption": "A flatcar carrying OSI Lumber panels, with the red and black branding clearly visible. The red frame and yellow railings of the car are in view, and the repeating pattern of the branded panels creates a strong visual rhythm.",
+      "ts": "2026-08-14T18:47:53Z"
+    },
+    {
       "url": "gallery/2026-08-14_02_5d185e.jpg",
       "caption": "A black intermodal container car with a large blue Amazon smile logo painted on its side; the artwork is bold and centered, making it a clear focal point.",
       "ts": "2026-08-14T03:26:47Z"
+    },
+    {
+      "url": "gallery/2026-08-14_03_0a0db8.jpg",
+      "caption": "A flatcar carrying OSI Lumber panels, with the red and black branding clearly visible. The car's red frame and yellow railings are in view, and the repeating pattern of the branded panels dominates the frame.",
+      "ts": "2026-08-14T18:47:49Z"
     },
     {
       "url": "gallery/2026-08-13_03_7fcf1a.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-03_02_7beacd.jpg",
       "caption": "The same Ryder boxcar continues its passage, now showing more of its side. The red 'Ryder' logo and 'Ever better.' text are fully visible. The car is moving left to right, with a stack of concrete sleepers visible behind the track.",
       "ts": "2026-08-03T02:27:44Z"
-    },
-    {
-      "url": "gallery/2026-08-03_03_747d83.jpg",
-      "caption": "A boxcar with a large graffiti piece in progress: a multi-color design featuring a red and white character with a blue outline, partially obscured by a white rectangular block. The art is mid-execution, with visible spray lines and a mix of bright colors against the car's dark surface.",
-      "ts": "2026-08-03T04:23:33Z"
-    },
-    {
-      "url": "gallery/2026-07-18_01_24cd0a.jpg",
-      "caption": "A red BNSF hopper car with a large, colorful graffiti piece on the side. The graffiti is a complex piece with multiple colors and shapes, including a heart and a circular design. The number 481756 is visible.",
-      "ts": "2026-07-18T17:28:34Z"
-    },
-    {
-      "url": "gallery/2026-07-18_02_33152c.jpg",
-      "caption": "A flatcar loaded with stacked white packages featuring a blue logo, with a yellow frame. The train moves past a lake under bright daylight.",
-      "ts": "2026-07-18T19:24:17Z"
     }
   ]
 }
