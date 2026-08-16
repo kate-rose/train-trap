@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-15T07:35:22Z",
+  "generated": "2026-08-16T07:35:52Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-15_01_a9bb09.jpg",
+      "caption": "A container car with two stacked containers; the top one has a large green 'Tiger Cool Express' logo. The lower container is clean. The car is moving past a tree-lined riverbank under overcast light.",
+      "ts": "2026-08-15T15:53:40Z"
+    },
+    {
+      "url": "gallery/2026-08-15_02_da5c37.jpg",
+      "caption": "A BNSF hopper car with number 496077, featuring a large, bold black and white graffiti piece spelling 'HAR' in stylized block letters. The artwork is centered on the side of the maroon car. The train moves past a lake under overcast light.",
+      "ts": "2026-08-15T22:44:55Z"
+    },
+    {
+      "url": "gallery/2026-08-15_03_f070ce.jpg",
+      "caption": "A CP boxcar with reporting mark CP 546291, featuring a large red and white 'M' art piece on its side. The artwork is bold and stylized, covering a significant portion of the car's surface. The train is moving along a track with a lake and trees in the background.",
+      "ts": "2026-08-15T19:07:50Z"
+    },
     {
       "url": "gallery/2026-08-14_01_0a0db8.jpg",
       "caption": "A flatcar loaded with stacks of white panels branded 'OSI Lumber' in red and black text, moving through a scenic view of a lake and trees. The car's red frame and yellow safety railings are visible, and the repeating logo creates a strong graphic pattern.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-07_03_fd569f.jpg",
       "caption": "A maroon BNSF hopper car, number 479658, features a large white circular logo on its side. The train moves past a water view under overcast skies.",
       "ts": "2026-08-07T13:42:34Z"
-    },
-    {
-      "url": "gallery/2026-08-07_03_2fa1a1.jpg",
-      "caption": "A maroon BNSF hopper car with the number 486922, featuring a large, well-composed graffiti piece with the word 'LUSHH' in bold yellow letters and a stylized white shape. The train moves past a lake with trees and a distant town.",
-      "ts": "2026-08-07T19:23:03Z"
-    },
-    {
-      "url": "gallery/2026-08-03_01_7beacd.jpg",
-      "caption": "A white boxcar with a large red 'Ryder' logo and the tagline 'Ever better.' in black text. The logo includes a stylized black swoosh. The car is moving from left to right, partially visible at the bottom of the frame.",
-      "ts": "2026-08-03T02:27:43Z"
-    },
-    {
-      "url": "gallery/2026-08-03_02_7beacd.jpg",
-      "caption": "The same Ryder boxcar continues its passage, now showing more of its side. The red 'Ryder' logo and 'Ever better.' text are fully visible. The car is moving left to right, with a stack of concrete sleepers visible behind the track.",
-      "ts": "2026-08-03T02:27:44Z"
     }
   ]
 }

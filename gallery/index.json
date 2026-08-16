@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-15_03_f070ce.jpg",
+      "event_id": "f070cee0acfa",
+      "rank": 3,
+      "caption": "A CP boxcar with reporting mark CP 546291, featuring a large red and white 'M' art piece on its side. The artwork is bold and stylized, covering a significant portion of the car's surface. The train is moving along a track with a lake and trees in the background.",
+      "captured_at": 1786820870
+    },
+    {
+      "file": "2026-08-15_02_da5c37.jpg",
+      "event_id": "da5c3726fbfc",
+      "rank": 2,
+      "caption": "A BNSF hopper car with number 496077, featuring a large, bold black and white graffiti piece spelling 'HAR' in stylized block letters. The artwork is centered on the side of the maroon car. The train moves past a lake under overcast light.",
+      "captured_at": 1786833895
+    },
+    {
+      "file": "2026-08-15_01_a9bb09.jpg",
+      "event_id": "a9bb0956cab3",
+      "rank": 1,
+      "caption": "A container car with two stacked containers; the top one has a large green 'Tiger Cool Express' logo. The lower container is clean. The car is moving past a tree-lined riverbank under overcast light.",
+      "captured_at": 1786809220
+    },
+    {
       "file": "2026-08-14_03_0a0db8.jpg",
       "event_id": "0a0db8301d78",
       "rank": 3,
