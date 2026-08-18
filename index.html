@@ -122,6 +122,7 @@
     padding: 8px;
     position: relative;
   }
+  .live-panel + .live-panel { margin-top: 12px; }
   /* photos sit above the scanline layer and carry no tint — clean feed */
   .live-panel img {
     display: block;
@@ -204,19 +205,29 @@
 <body>
 <script>
 /* ── EDIT ME ─────────────────────────────────────────────────────────
-   LIVE_IMAGE_URL: optional override for the big live frame. Paste a
-   Dropbox shared link (?dl=0 form is fine — the page converts it) or
-   any image URL. Leave "" and the page uses the "live" entry from
-   manifest.json instead, which the GitHub Action keeps pointed at the
-   newest shot. Ships pointing at the local smoke-test image so you
-   can see the machinery work.
+   CAMERAS: the live frames, top to bottom. Each needs a url (Dropbox
+   shared link, ?dl=0/raw=1 form is fine — the page converts it) plus a
+   label and alt text. Add or remove entries freely. If the list is
+   empty the page falls back to the "live" entry in manifest.json.
 
-   REFRESH_SECONDS: how often to re-pull the live frame.
+   REFRESH_SECONDS: how often to re-pull every live frame.
 
    MANIFEST_URL: JSON list of gallery images. Hand-edit manifest.json
    with Dropbox shared links, or let the GitHub Action fill it in.  */
+const RIVER_FOLDER = "https://www.dropbox.com/scl/fo/bj8k7wp5do4q95mkogmg1/AKVhrfI0MDtfXvjjcjPlPDk?rlkey=r8o2p4ukarzxaznnvhc3uwjy3&raw=1";
 const CONFIG = {
-  LIVE_IMAGE_URL: "https://www.dropbox.com/scl/fo/bj8k7wp5do4q95mkogmg1/ALFp6UvSb7PmM7RC2cnCvv4/latest.jpg?rlkey=r8o2p4ukarzxaznnvhc3uwjy3&raw=1",
+  CAMERAS: [
+    {
+      url: RIVER_FOLDER + "&preview=latest.jpg",
+      label: "CAM 1 · RIVER",
+      alt: "Live Columbia River conditions at the Underwood green buoy, Columbia River Gorge",
+    },
+    {
+      url: RIVER_FOLDER + "&preview=cam2_latest.jpg",
+      label: "CAM 2 · TRACKSIDE",
+      alt: "Live trackside view of the BNSF line and Columbia River at Underwood",
+    },
+  ],
   REFRESH_SECONDS: 120,
   MANIFEST_URL: "manifest.json",
 };
@@ -237,14 +248,7 @@ const CONFIG = {
     <span>NEXT PULL <span id="countdown">--</span>s</span>
   </div>
 
-  <div class="live-panel" id="live-panel">
-    <div class="standby" id="standby">
-      <div class="big">NO FEED</div>
-      <div id="standby-msg">awaiting shared link &mdash; set LIVE_IMAGE_URL in index.html</div>
-    </div>
-    <img id="live" alt="Live Columbia River conditions at the Underwood green buoy, Columbia River Gorge" hidden>
-    <div class="frame-label" id="frame-label" hidden>LIVE &middot; <span id="frame-time"></span></div>
-  </div>
+  <div id="cameras"></div>
 
   <h2>RECENT ROLLING STOCK</h2>
   <div class="gallery" id="gallery">
@@ -253,8 +257,9 @@ const CONFIG = {
 
   <footer>
     <!-- EDIT THIS TEXT: swap in your own words before publishing. -->
-    <p>The train trap is a fixed camera watching the river line. It photographs
-    current conditions and whatever rolls past, including the good paint.</p>
+    <p>The train trap is a pair of fixed cameras watching the river line: one
+    wide on the water, one down at track level. They photograph current
+    conditions and whatever rolls past, including the good paint.</p>
     <p>Every passing train is also recorded, and clips are kept on a trailing
     weekly basis. If a train is alleged or suspected to be involved in a fire,
     we can provide video on request. Audio is next. IR after that.</p>
@@ -266,14 +271,22 @@ const CONFIG = {
   const $ = (id) => document.getElementById(id);
 
   // Convert a Dropbox shared link (?dl=0) to a direct-content link.
+  // Per-file links move to dl.dropboxusercontent.com. Folder links that
+  // pick a file with ?preview=NAME must stay on www.dropbox.com with
+  // raw=1 — that is the only host that resolves the preview param.
   // Leaves relative paths and non-Dropbox URLs alone.
   function normalizeDropbox(u) {
     try {
       const url = new URL(u);
       if (url.hostname === "www.dropbox.com" || url.hostname === "dropbox.com") {
-        url.hostname = "dl.dropboxusercontent.com";
-        url.searchParams.delete("dl");
-        url.searchParams.delete("raw");
+        if (url.searchParams.has("preview")) {
+          url.searchParams.delete("dl");
+          url.searchParams.set("raw", "1");
+        } else {
+          url.hostname = "dl.dropboxusercontent.com";
+          url.searchParams.delete("dl");
+          url.searchParams.delete("raw");
+        }
       }
       return url.toString();
     } catch { return u; }
@@ -287,7 +300,7 @@ const CONFIG = {
   setInterval(() => { $("clock").textContent = fmtTime(new Date()); }, 1000);
   $("clock").textContent = fmtTime(new Date());
 
-  // ── live frame ──
+  // ── live frames ──
   let secondsLeft = CONFIG.REFRESH_SECONDS;
   let liveFromManifest = "";
 
@@ -296,46 +309,77 @@ const CONFIG = {
     $("feed-state").textContent = label;
   }
 
-  function showStandby(msg) {
-    $("standby").hidden = false;
-    $("live").hidden = true;
-    $("frame-label").hidden = true;
-    if (msg) $("standby-msg").textContent = msg;
+  // Build one panel per camera. cams is CONFIG.CAMERAS, or a single
+  // manifest-fed camera when the config list is empty.
+  function cameraList() {
+    if (CONFIG.CAMERAS && CONFIG.CAMERAS.length) return CONFIG.CAMERAS;
+    if (liveFromManifest) return [{ url: liveFromManifest, label: "LIVE", alt: "Latest photo from the train trap" }];
+    return [];
+  }
+
+  function buildPanels() {
+    const host = $("cameras");
+    host.innerHTML = "";
+    const cams = cameraList();
+    if (!cams.length) {
+      host.innerHTML = '<div class="live-panel"><div class="standby"><div class="big">NO FEED</div><div>awaiting camera links &mdash; set CAMERAS in index.html</div></div></div>';
+      return;
+    }
+    cams.forEach((cam, i) => {
+      const panel = document.createElement("div");
+      panel.className = "live-panel";
+      panel.innerHTML =
+        '<div class="standby"><div class="big">NO FEED</div><div class="msg">' + (cam.label || "") + ' &mdash; feed unreachable</div></div>' +
+        '<img hidden>' +
+        '<div class="frame-label" hidden></div>';
+      panel.querySelector("img").alt = cam.alt || cam.label || "live camera";
+      panel.dataset.index = i;
+      host.append(panel);
+    });
   }
 
   function refreshLive() {
     secondsLeft = CONFIG.REFRESH_SECONDS;
-    const liveUrl = CONFIG.LIVE_IMAGE_URL || liveFromManifest;
-    if (!liveUrl) {
-      setState("nofeed", "STANDBY");
-      showStandby();
-      return;
-    }
-    let src;
-    try {
-      const url = new URL(normalizeDropbox(liveUrl), location.href);
-      url.searchParams.set("cb", Date.now());
-      src = url.toString();
-    } catch {
-      setState("nofeed", "BAD URL");
-      showStandby("LIVE_IMAGE_URL is not a valid link");
-      return;
-    }
-    const probe = new Image();
-    probe.onload = () => {
-      $("live").src = probe.src;
-      $("live").hidden = false;
-      $("standby").hidden = true;
-      $("frame-label").hidden = false;
-      $("frame-time").textContent = fmtTime(new Date());
-      $("last-frame").textContent = fmtTime(new Date());
-      setState("live", "LIVE");
+    const cams = cameraList();
+    const panels = $("cameras").querySelectorAll(".live-panel");
+    if (!cams.length || panels.length !== cams.length) { buildPanels(); }
+    if (!cams.length) { setState("nofeed", "STANDBY"); return; }
+    let live = 0, done = 0;
+    const finish = () => {
+      done += 1;
+      if (done < cams.length) return;
+      if (live === cams.length) setState("live", "LIVE");
+      else if (live > 0) setState("live", live + "/" + cams.length + " LIVE");
+      else setState("nofeed", "NO FEED");
     };
-    probe.onerror = () => {
-      setState("nofeed", "NO FEED");
-      if ($("live").hidden) showStandby("feed unreachable — check the shared link");
-    };
-    probe.src = src;
+    cams.forEach((cam, i) => {
+      const panel = $("cameras").querySelectorAll(".live-panel")[i];
+      const img = panel.querySelector("img");
+      const standby = panel.querySelector(".standby");
+      const label = panel.querySelector(".frame-label");
+      let src;
+      try {
+        const url = new URL(normalizeDropbox(cam.url), location.href);
+        url.searchParams.set("cb", Date.now());
+        src = url.toString();
+      } catch { finish(); return; }
+      const probe = new Image();
+      probe.onload = () => {
+        img.src = probe.src;
+        img.hidden = false;
+        standby.hidden = true;
+        label.hidden = false;
+        label.textContent = (cam.label ? cam.label + " · " : "") + "LIVE · " + fmtTime(new Date());
+        $("last-frame").textContent = fmtTime(new Date());
+        live += 1;
+        finish();
+      };
+      probe.onerror = () => {
+        if (img.hidden) standby.hidden = false;
+        finish();
+      };
+      probe.src = src;
+    });
   }
 
   setInterval(() => {
@@ -343,6 +387,7 @@ const CONFIG = {
     if (secondsLeft <= 0) refreshLive();
     $("countdown").textContent = Math.max(secondsLeft, 0);
   }, 1000);
+  buildPanels();
   refreshLive();
 
   // ── gallery ──
@@ -356,7 +401,7 @@ const CONFIG = {
     const newLive = data.live || "";
     if (newLive !== liveFromManifest) {
       liveFromManifest = newLive;
-      if (!CONFIG.LIVE_IMAGE_URL) refreshLive();
+      if (!(CONFIG.CAMERAS && CONFIG.CAMERAS.length)) refreshLive();
     }
     const images = (data.images || []).filter((i) => i && i.url);
     if (!images.length) return;
