@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-17T07:33:59Z",
+  "generated": "2026-08-18T07:46:27Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-17_01_26e0f4.jpg",
+      "caption": "A BNSF hopper car with a large, colorful mural-style graffiti piece on its side. The piece features the word 'NEYKA' in bold purple letters with a black outline, a green and blue background, and a yellow border. The BNSF logo and number 488269 are visible. The train moves past a lake with trees in the foreground.",
+      "ts": "2026-08-17T16:44:14Z"
+    },
+    {
+      "url": "gallery/2026-08-17_02_7b6a5f.jpg",
+      "caption": "A maroon BNSF hopper car with the number 491607, featuring a large green and white graffiti piece that reads 'WE CAN'T STOP' in bold, stylized letters. The artwork is well-composed and covers a significant portion of the car's side.",
+      "ts": "2026-08-17T16:15:35Z"
+    },
+    {
+      "url": "gallery/2026-08-17_03_7b6a5f.jpg",
+      "caption": "A maroon BNSF hopper car, number 478233, with a large white and black graffiti piece that reads 'BULLE' in a stylized blockbuster font. The piece is centered on the car's side. The car also has a white circular Santa Fe Railway logo. It is passing a lake with a tree in the foreground.",
+      "ts": "2026-08-17T16:15:01Z"
+    },
     {
       "url": "gallery/2026-08-17_03_a97ca6.jpg",
       "caption": "A maroon BNSF hopper car with number 475160. The side features a large, detailed mural of a train scene with multiple locomotives and railcars. The artwork is painted in a realistic style with a mix of colors including green, blue, and white. The BNSF logo is visible above the mural.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-08_03_d655b9.jpg",
       "caption": "A boxcar with a large graffiti piece in progress; the artwork features a stylized character or figure in white and gray tones, partially obscured by motion blur, with a dark background. The car is moving through the frame from left to right.",
       "ts": "2026-08-08T09:33:58Z"
-    },
-    {
-      "url": "gallery/2026-08-07_01_242383.jpg",
-      "caption": "A maroon BNSF hopper car features a large, mural-scale graffiti piece with the word 'MEAD' in bold white letters outlined in black, with red accents and a circular logo on the right side; the artwork dominates the car's side.",
-      "ts": "2026-08-07T20:25:22Z"
-    },
-    {
-      "url": "gallery/2026-08-07_01_4fb15d.jpg",
-      "caption": "A weathered white ADMX hopper car with number 58081, featuring a large blue diamond logo with 'ADM' text. The car shows significant wear and rust, with a faint graffiti tag on the side. It passes a lake with trees in the background.",
-      "ts": "2026-08-07T16:46:13Z"
-    },
-    {
-      "url": "gallery/2026-08-07_02_2fa1a1.jpg",
-      "caption": "A maroon BNSF hopper car with the number 441760, featuring a large blue and white graffiti piece that reads 'MESS PHUX' in bold block letters. The car is moving past a lake with trees and a distant cityscape under bright daylight.",
-      "ts": "2026-08-07T19:23:33Z"
     }
   ]
 }
