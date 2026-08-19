@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-18T07:46:27Z",
+  "generated": "2026-08-19T07:48:06Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-18_01_c466cd.jpg",
+      "caption": "A BNSF hopper car with number 472906, displaying a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train passes a scenic view of a lake, trees, and a forested hill under a bright sky.",
+      "ts": "2026-08-18T17:59:41Z"
+    },
+    {
+      "url": "gallery/2026-08-18_02_8b7bcb.jpg",
+      "caption": "A black tank car with yellow safety panels and the markings PPRX 171202 is passing by on a track beside a lake; a large, stylized graffiti piece in white and yellow reads 'GABELOVESALEX' across the side of the car.",
+      "ts": "2026-08-18T16:37:30Z"
+    },
+    {
+      "url": "gallery/2026-08-18_03_c466cd.jpg",
+      "caption": "A BNSF hopper car with number 49035, featuring a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train continues past a lake with a tree-lined shore and a snow-capped mountain under a clear sky.",
+      "ts": "2026-08-18T17:59:42Z"
+    },
     {
       "url": "gallery/2026-08-17_01_26e0f4.jpg",
       "caption": "A BNSF hopper car with a large, colorful mural-style graffiti piece on its side. The piece features the word 'NEYKA' in bold purple letters with a black outline, a green and blue background, and a yellow border. The BNSF logo and number 488269 are visible. The train moves past a lake with trees in the foreground.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-10_03_d2f3a6.jpg",
       "caption": "A green hopper car with number 202634, featuring a large white graffiti piece with red accents and a stylized design on its side. The car is moving past a body of water with trees and a distant town under a bright sky.",
       "ts": "2026-08-10T00:33:07Z"
-    },
-    {
-      "url": "gallery/2026-08-08_01_411065.jpg",
-      "caption": "A boxcar with a large graffiti piece in progress; the artwork features a stylized character or face in white and gray tones, with a dark background. The piece is partially visible, showing bold outlines and shading. The car's reporting mark 'BNSF' is visible in the upper left corner.",
-      "ts": "2026-08-08T10:50:22Z"
-    },
-    {
-      "url": "gallery/2026-08-08_02_411065.jpg",
-      "caption": "A dark boxcar with a large, multi-color graffiti piece on its side; the artwork features a stylized face with bold red and blue outlines and a yellow fill, partially obscured by the train's motion. The car is moving through a wooded area at night.",
-      "ts": "2026-08-08T10:51:54Z"
-    },
-    {
-      "url": "gallery/2026-08-08_03_d655b9.jpg",
-      "caption": "A boxcar with a large graffiti piece in progress; the artwork features a stylized character or figure in white and gray tones, partially obscured by motion blur, with a dark background. The car is moving through the frame from left to right.",
-      "ts": "2026-08-08T09:33:58Z"
     }
   ]
 }
