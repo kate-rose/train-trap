@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-08-19_03_e63524.jpg",
+      "event_id": "e63524f4aba9",
+      "rank": 3,
+      "caption": "A flatcar carrying a load of white panels wrapped in a red and black branded cover, passing a lake with a mountain in the background.",
+      "captured_at": 1787155369
+    },
+    {
+      "file": "2026-08-19_02_1b2727.jpg",
+      "event_id": "1b2727788673",
+      "rank": 2,
+      "caption": "A white BNSF boxcar displays a large, stylized pictorial piece with maroon and green shapes. The car is a BNSF boxcar.",
+      "captured_at": 1787159211
+    },
+    {
+      "file": "2026-08-19_01_e63524.jpg",
+      "event_id": "e63524f4aba9",
+      "rank": 1,
+      "caption": "A flatcar loaded with stacks of white panels wrapped in a red and black branded cover, moving past a lake with a mountain in the distance.",
+      "captured_at": 1787155367
+    },
+    {
       "file": "2026-08-18_03_c466cd.jpg",
       "event_id": "c466cdda9656",
       "rank": 3,

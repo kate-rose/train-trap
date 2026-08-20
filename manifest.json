@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-19T07:48:06Z",
+  "generated": "2026-08-20T07:51:43Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-19_01_e63524.jpg",
+      "caption": "A flatcar loaded with stacks of white panels wrapped in a red and black branded cover, moving past a lake with a mountain in the distance.",
+      "ts": "2026-08-19T16:02:47Z"
+    },
+    {
+      "url": "gallery/2026-08-19_02_1b2727.jpg",
+      "caption": "A white BNSF boxcar displays a large, stylized pictorial piece with maroon and green shapes. The car is a BNSF boxcar.",
+      "ts": "2026-08-19T17:06:51Z"
+    },
+    {
+      "url": "gallery/2026-08-19_03_e63524.jpg",
+      "caption": "A flatcar carrying a load of white panels wrapped in a red and black branded cover, passing a lake with a mountain in the background.",
+      "ts": "2026-08-19T16:02:49Z"
+    },
     {
       "url": "gallery/2026-08-18_01_c466cd.jpg",
       "caption": "A BNSF hopper car with number 472906, displaying a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train passes a scenic view of a lake, trees, and a forested hill under a bright sky.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-11_03_f141cc.jpg",
       "caption": "A dark boxcar continues through the frame, its side marked only by a small white rectangle. The train moves at night with a city skyline visible in the background.",
       "ts": "2026-08-11T05:46:40Z"
-    },
-    {
-      "url": "gallery/2026-08-10_01_e71c13.jpg",
-      "caption": "A boxcar with a large graffiti piece in red and black; the artwork features a stylized character or figure with bold lines and a dynamic pose, painted over the side of the car.",
-      "ts": "2026-08-10T02:30:54Z"
-    },
-    {
-      "url": "gallery/2026-08-10_02_d2f3a6.jpg",
-      "caption": "A pink hopper car with a bold black and white graffiti piece that reads 'KONK' in a blocky, geometric style. The artwork dominates the side of the car, which is part of a freight train moving along a track beside a lake.",
-      "ts": "2026-08-10T00:32:25Z"
-    },
-    {
-      "url": "gallery/2026-08-10_03_d2f3a6.jpg",
-      "caption": "A green hopper car with number 202634, featuring a large white graffiti piece with red accents and a stylized design on its side. The car is moving past a body of water with trees and a distant town under a bright sky.",
-      "ts": "2026-08-10T00:33:07Z"
     }
   ]
 }
