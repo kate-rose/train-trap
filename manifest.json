@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-20T07:51:43Z",
+  "generated": "2026-08-21T08:06:58Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-20_01_cb1505.jpg",
+      "caption": "A striking white pictorial mural of a locomotive and railway scene wraps the lower half of a maroon BNSF 480156 hopper, its crisp linework standing out against the bare car. The car is centered in the frame.",
+      "ts": "2026-08-20T19:00:05Z"
+    },
+    {
+      "url": "gallery/2026-08-20_02_cb1505.jpg",
+      "caption": "A maroon BNSF 477336 boxcar carries a composed multi-color piece with wildstyle letters and a small character or figure worked into the right side, standing out against the dark paint. A COER car trails at the right edge.",
+      "ts": "2026-08-20T18:59:59Z"
+    },
+    {
+      "url": "gallery/2026-08-20_03_2f6413.jpg",
+      "caption": "A BNSF hopper (478910) covered in a long, ornate multi-color wildstyle piece with dense linework and character-like shapes running the full length of the body. The car is lettered BNSF 478910.",
+      "ts": "2026-08-20T21:21:27Z"
+    },
     {
       "url": "gallery/2026-08-19_01_e63524.jpg",
       "caption": "A flatcar loaded with stacks of white panels wrapped in a red and black branded cover, moving past a lake with a mountain in the distance.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-11_02_677c01.jpg",
       "caption": "A maroon BNSF hopper car with the number 489436, covered in a large multi-color graffiti piece in blue, yellow, and white. The artwork includes stylized letters and a circular design. The car is moving past a lake.",
       "ts": "2026-08-11T14:48:26Z"
-    },
-    {
-      "url": "gallery/2026-08-11_02_d9fabe.jpg",
-      "caption": "A dark boxcar with a single white rectangular tag on its side, captured in motion; the tag is a simple, unadorned marking with no visible text or design.",
-      "ts": "2026-08-11T06:03:18Z"
-    },
-    {
-      "url": "gallery/2026-08-11_03_677c01.jpg",
-      "caption": "A maroon BNSF hopper car with number 478297, featuring a large multi-color graffiti piece in yellow, green, and blue across the side. The artwork is a stylized wildstyle piece with a prominent red outline.",
-      "ts": "2026-08-11T14:49:27Z"
-    },
-    {
-      "url": "gallery/2026-08-11_03_f141cc.jpg",
-      "caption": "A dark boxcar continues through the frame, its side marked only by a small white rectangle. The train moves at night with a city skyline visible in the background.",
-      "ts": "2026-08-11T05:46:40Z"
     }
   ]
 }
