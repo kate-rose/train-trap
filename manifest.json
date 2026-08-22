@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-21T08:06:58Z",
+  "generated": "2026-08-22T07:36:13Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-21_01_e4483b.jpg",
+      "caption": "A BNSF hopper lettered 480970 carrying a small blue character piece on the left and a large white and blue blockbusters piece across the center, with a BNSF 475647 and 'TVISOR' tag on the car to the right.",
+      "ts": "2026-08-21T19:40:24Z"
+    },
+    {
+      "url": "gallery/2026-08-21_02_e4483b.jpg",
+      "caption": "A bold white block-letter piece reading ESHARECT runs across the lower side of a maroon BNSF hopper, with a small green character figure worked into the lettering. The car is lettered BNSF 776300.",
+      "ts": "2026-08-21T19:38:47Z"
+    },
+    {
+      "url": "gallery/2026-08-21_03_c268df.jpg",
+      "caption": "BNSF hopper 483077 features a composed blue and white piece reading 'SUPER CIRE' and 'VISION KAOS' in stylized lettering. The car is framed by a lake and pines.",
+      "ts": "2026-08-21T18:03:33Z"
+    },
     {
       "url": "gallery/2026-08-20_01_cb1505.jpg",
       "caption": "A striking white pictorial mural of a locomotive and railway scene wraps the lower half of a maroon BNSF 480156 hopper, its crisp linework standing out against the bare car. The car is centered in the frame.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-12_03_7c4a3b.jpg",
       "caption": "A green boxcar with a large, bold graffiti piece spelling \"PANAS\" in block letters; the artwork features a grid pattern and a red \"X-HOURLASS\" logo in the upper right corner.",
       "ts": "2026-08-12T19:10:51Z"
-    },
-    {
-      "url": "gallery/2026-08-11_01_d52eb2.jpg",
-      "caption": "A maroon BNSF hopper car with the number 496864, featuring a large black and white graffiti piece with the text 'JUDDNDA' and 'JOE KEEN'. The train moves past a lake and trees under bright daylight.",
-      "ts": "2026-08-11T16:05:22Z"
-    },
-    {
-      "url": "gallery/2026-08-11_01_d9fabe.jpg",
-      "caption": "A dark boxcar in motion, showing a faint white rectangular tag on its side; the tag is simple and unadorned, with no visible text or design.",
-      "ts": "2026-08-11T06:03:19Z"
-    },
-    {
-      "url": "gallery/2026-08-11_02_677c01.jpg",
-      "caption": "A maroon BNSF hopper car with the number 489436, covered in a large multi-color graffiti piece in blue, yellow, and white. The artwork includes stylized letters and a circular design. The car is moving past a lake.",
-      "ts": "2026-08-11T14:48:26Z"
     }
   ]
 }
