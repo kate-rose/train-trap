@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-22T07:36:13Z",
+  "generated": "2026-08-23T07:38:02Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-08-22_01_e30fe5.jpg",
+      "caption": "A striking multi-color graffiti piece with stylized lettering and cartoonish character work in green, pink, and black covers the side of a beige boxcar. The composition is dense and intentional, making it a standout piece on the train.",
+      "ts": "2026-08-22T17:13:33Z"
+    },
+    {
+      "url": "gallery/2026-08-22_02_3fef33.jpg",
+      "caption": "A BNSF boxcar (496293) carrying a bold black-and-white checkered mural with a central emblem. The car is flanked by a sister BNSF car (499487).",
+      "ts": "2026-08-22T13:40:38Z"
+    },
+    {
+      "url": "gallery/2026-08-22_03_f78468.jpg",
+      "caption": "A CEFX boxcar dressed in a long composed piece, with a purple dragon-like character on the left, a row of yellow outlined lettering through the middle, and a pink character at the right. Bordered by a round-logo car on the left and a maroon car at the right.",
+      "ts": "2026-08-22T20:02:45Z"
+    },
     {
       "url": "gallery/2026-08-21_01_e4483b.jpg",
       "caption": "A BNSF hopper lettered 480970 carrying a small blue character piece on the left and a large white and blue blockbusters piece across the center, with a BNSF 475647 and 'TVISOR' tag on the car to the right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-13_03_7fcf1a.jpg",
       "caption": "A yellow boxcar features a large, detailed American flag painted on its side, with a red and white striped pattern and a blue field with stars, above a green and blue tag below.",
       "ts": "2026-08-13T13:00:02Z"
-    },
-    {
-      "url": "gallery/2026-08-12_01_cdcf35.jpg",
-      "caption": "A red BNSF hopper car with a large white stencil-style artwork depicting a figure and abstract shapes, moving past a lake in bright daylight.",
-      "ts": "2026-08-12T16:26:34Z"
-    },
-    {
-      "url": "gallery/2026-08-12_02_cdcf35.jpg",
-      "caption": "A maroon BNSF hopper car with number 473646, featuring a colorful art piece in green, blue, and red with a stylized face and abstract shapes.",
-      "ts": "2026-08-12T16:26:50Z"
-    },
-    {
-      "url": "gallery/2026-08-12_03_7c4a3b.jpg",
-      "caption": "A green boxcar with a large, bold graffiti piece spelling \"PANAS\" in block letters; the artwork features a grid pattern and a red \"X-HOURLASS\" logo in the upper right corner.",
-      "ts": "2026-08-12T19:10:51Z"
     }
   ]
 }
