@@ -1,7 +1,22 @@
 {
-  "generated": "2026-08-26T08:11:17Z",
+  "generated": "2026-09-04T11:38:41Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-04_01_225e44.jpg",
+      "caption": "A composed character piece in teal, orange, and black fills the side of a white SOIX 520911 boxcar, with a stylized face and creature work that reads as intentional art. The AOK 202272 from the previous frame is now clipped on the right.",
+      "ts": "2026-09-04T01:53:22Z"
+    },
+    {
+      "url": "gallery/2026-09-04_02_225e44.jpg",
+      "caption": "A wildstyle piece in bright blue and green with heavy outline work sits low on the panel, flanked by two white skull carvings that give it a real focal point. It rides a BNSF boxcar lettered 48574, passing a lake at dusk.",
+      "ts": "2026-09-04T01:53:51Z"
+    },
+    {
+      "url": "gallery/2026-09-03_03_be8b80.jpg",
+      "caption": "A rusted intermodal well car carrying a grey container carries a long multi-color throw-up piece along its lower side, with a readable white tag above it. The piece runs the length of the panel in mixed colors, a standard letter-based graffiti run.",
+      "ts": "2026-09-03T21:57:38Z"
+    },
     {
       "url": "gallery/2026-08-25_01_b3e830.jpg",
       "caption": "A composed multi-color piece with character work and a red, blue, and white palette runs along the lower side of a maroon BNSF boxcar lettered 728 483, a real composed piece on a tired road. A CSX car is at the right edge.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-17_03_7b6a5f.jpg",
       "caption": "A maroon BNSF hopper car, number 478233, with a large white and black graffiti piece that reads 'BULLE' in a stylized blockbuster font. The piece is centered on the car's side. The car also has a white circular Santa Fe Railway logo. It is passing a lake with a tree in the foreground.",
       "ts": "2026-08-17T16:15:01Z"
-    },
-    {
-      "url": "gallery/2026-08-17_03_a97ca6.jpg",
-      "caption": "A maroon BNSF hopper car with number 475160. The side features a large, detailed mural of a train scene with multiple locomotives and railcars. The artwork is painted in a realistic style with a mix of colors including green, blue, and white. The BNSF logo is visible above the mural.",
-      "ts": "2026-08-17T00:19:30Z"
-    },
-    {
-      "url": "gallery/2026-08-16_01_0cb864.jpg",
-      "caption": "A white hopper car with number 352906, featuring a large red and yellow 'ARNO-N-HEKTIK' logo with a stylized arrow. The car has a clean, intentional design with a red outline and a yellow arrow pointing right. The train moves past a lake with trees and a distant town under a bright sky.",
-      "ts": "2026-08-16T19:09:58Z"
-    },
-    {
-      "url": "gallery/2026-08-16_02_0cb864.jpg",
-      "caption": "A maroon BNSF hopper car, number 498133, featuring a large, detailed portrait of a man with dark hair and a woman with blonde hair. The artwork is a well-composed, intentional piece that covers a significant portion of the car's side. The car moves past a lake under a bright sky.",
-      "ts": "2026-08-16T19:10:12Z"
     }
   ]
 }
