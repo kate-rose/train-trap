@@ -1,16 +1,31 @@
 {
-  "generated": "2026-09-04T11:38:41Z",
+  "generated": "2026-09-05T08:15:33Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-05_01_b40a7f.jpg",
+      "caption": "A painted portrait of a man's face in pale blue and white sits on the side of a BNSF 489333 boxcar, a clean character piece standing out on the dark red panel. The car is centered on the lakeside cut under a cloudy sky.",
+      "ts": "2026-09-05T00:14:14Z"
+    },
     {
       "url": "gallery/2026-09-04_01_225e44.jpg",
       "caption": "A composed character piece in teal, orange, and black fills the side of a white SOIX 520911 boxcar, with a stylized face and creature work that reads as intentional art. The AOK 202272 from the previous frame is now clipped on the right.",
       "ts": "2026-09-04T01:53:22Z"
     },
     {
+      "url": "gallery/2026-09-04_02_b8e2f1.jpg",
+      "caption": "The same flowing brown and blue character piece is visible on the right car, lettered TILX 314862, with a small white tag on the left car. The piece is partly hidden by a foreground pine.",
+      "ts": "2026-09-04T17:35:41Z"
+    },
+    {
       "url": "gallery/2026-09-04_02_225e44.jpg",
       "caption": "A wildstyle piece in bright blue and green with heavy outline work sits low on the panel, flanked by two white skull carvings that give it a real focal point. It rides a BNSF boxcar lettered 48574, passing a lake at dusk.",
       "ts": "2026-09-04T01:53:51Z"
+    },
+    {
+      "url": "gallery/2026-09-04_03_e0d363.jpg",
+      "caption": "A BNSF hopper 476216 carrying a composed blue piece that works a horned character face into the lettering, with a matching character on the right end. The piece is intentional and character-driven rather than a plain tag run. It passes a tree-lined cut beside a wide lake under a flat grey sky.",
+      "ts": "2026-09-04T22:33:58Z"
     },
     {
       "url": "gallery/2026-09-03_03_be8b80.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-18_03_c466cd.jpg",
       "caption": "A BNSF hopper car with number 49035, featuring a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train continues past a lake with a tree-lined shore and a snow-capped mountain under a clear sky.",
       "ts": "2026-08-18T17:59:42Z"
-    },
-    {
-      "url": "gallery/2026-08-17_01_26e0f4.jpg",
-      "caption": "A BNSF hopper car with a large, colorful mural-style graffiti piece on its side. The piece features the word 'NEYKA' in bold purple letters with a black outline, a green and blue background, and a yellow border. The BNSF logo and number 488269 are visible. The train moves past a lake with trees in the foreground.",
-      "ts": "2026-08-17T16:44:14Z"
-    },
-    {
-      "url": "gallery/2026-08-17_02_7b6a5f.jpg",
-      "caption": "A maroon BNSF hopper car with the number 491607, featuring a large green and white graffiti piece that reads 'WE CAN'T STOP' in bold, stylized letters. The artwork is well-composed and covers a significant portion of the car's side.",
-      "ts": "2026-08-17T16:15:35Z"
-    },
-    {
-      "url": "gallery/2026-08-17_03_7b6a5f.jpg",
-      "caption": "A maroon BNSF hopper car, number 478233, with a large white and black graffiti piece that reads 'BULLE' in a stylized blockbuster font. The piece is centered on the car's side. The car also has a white circular Santa Fe Railway logo. It is passing a lake with a tree in the foreground.",
-      "ts": "2026-08-17T16:15:01Z"
     }
   ]
 }
