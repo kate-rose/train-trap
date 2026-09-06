@@ -1,11 +1,26 @@
 {
-  "generated": "2026-09-05T08:15:33Z",
+  "generated": "2026-09-06T08:48:41Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-06_02_09d132.jpg",
+      "caption": "A rusted hopper carries a multi-color wildstyle letter piece in teal and blue with a red character figure worked into the center. The car sits mid-frame on a lakeside cut, with a plain white AOKX car trailing at the left edge.",
+      "ts": "2026-09-06T00:40:40Z"
+    },
+    {
+      "url": "gallery/2026-09-05_01_f89e6c.jpg",
+      "caption": "A striking black-and-white pictorial piece covers the side of a BNSF boxcar 499580, its abstract winged shapes reading like a mural. The car rolls past the lake with a maroon BNSF car flanking each end.",
+      "ts": "2026-09-05T22:16:08Z"
+    },
     {
       "url": "gallery/2026-09-05_01_b40a7f.jpg",
       "caption": "A painted portrait of a man's face in pale blue and white sits on the side of a BNSF 489333 boxcar, a clean character piece standing out on the dark red panel. The car is centered on the lakeside cut under a cloudy sky.",
       "ts": "2026-09-05T00:14:14Z"
+    },
+    {
+      "url": "gallery/2026-09-05_03_f89e6c.jpg",
+      "caption": "A colorful piece with a character and large stylized letters in blue, orange, and white covers the left panel of a BNSF hopper numbered 495688. The car is centered in the frame against the lake and forested hills.",
+      "ts": "2026-09-05T22:17:11Z"
     },
     {
       "url": "gallery/2026-09-04_01_225e44.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-19_03_e63524.jpg",
       "caption": "A flatcar carrying a load of white panels wrapped in a red and black branded cover, passing a lake with a mountain in the background.",
       "ts": "2026-08-19T16:02:49Z"
-    },
-    {
-      "url": "gallery/2026-08-18_01_c466cd.jpg",
-      "caption": "A BNSF hopper car with number 472906, displaying a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train passes a scenic view of a lake, trees, and a forested hill under a bright sky.",
-      "ts": "2026-08-18T17:59:41Z"
-    },
-    {
-      "url": "gallery/2026-08-18_02_8b7bcb.jpg",
-      "caption": "A black tank car with yellow safety panels and the markings PPRX 171202 is passing by on a track beside a lake; a large, stylized graffiti piece in white and yellow reads 'GABELOVESALEX' across the side of the car.",
-      "ts": "2026-08-18T16:37:30Z"
-    },
-    {
-      "url": "gallery/2026-08-18_03_c466cd.jpg",
-      "caption": "A BNSF hopper car with number 49035, featuring a large, colorful mural-style graffiti piece in blue, yellow, and red with the word 'LIZON' in bold block letters. The train continues past a lake with a tree-lined shore and a snow-capped mountain under a clear sky.",
-      "ts": "2026-08-18T17:59:42Z"
     }
   ]
 }
