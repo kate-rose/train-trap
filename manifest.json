@@ -1,11 +1,26 @@
 {
-  "generated": "2026-09-06T08:48:41Z",
+  "generated": "2026-09-07T13:25:18Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-07_02_e0fec3.jpg",
+      "caption": "The same large pink-and-grey pictorial piece on BNSF BI-MAX 314601 now sits centered, its bold black-outlined shapes and composed figure clearly readable end to end. A second BI-MAX, 314607, follows on the right.",
+      "ts": "2026-09-07T00:02:45Z"
+    },
+    {
+      "url": "gallery/2026-09-06_01_f91792.jpg",
+      "caption": "The same row of star-patterned figures in green, yellow, and purple continues along the side of this maroon boxcar, a composed pictorial piece. A black AOKX car enters the left edge of the frame.",
+      "ts": "2026-09-06T19:54:53Z"
+    },
     {
       "url": "gallery/2026-09-06_02_09d132.jpg",
       "caption": "A rusted hopper carries a multi-color wildstyle letter piece in teal and blue with a red character figure worked into the center. The car sits mid-frame on a lakeside cut, with a plain white AOKX car trailing at the left edge.",
       "ts": "2026-09-06T00:40:40Z"
+    },
+    {
+      "url": "gallery/2026-09-06_03_f91792.jpg",
+      "caption": "A row of stylized, star-patterned figures in green, yellow, and purple runs along the lower side of this maroon boxcar, a composed, intentional pictorial piece rather than standard lettering. The figures are evenly spaced and clearly deliberate.",
+      "ts": "2026-09-06T19:54:52Z"
     },
     {
       "url": "gallery/2026-09-05_01_f89e6c.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-20_03_2f6413.jpg",
       "caption": "A BNSF hopper (478910) covered in a long, ornate multi-color wildstyle piece with dense linework and character-like shapes running the full length of the body. The car is lettered BNSF 478910.",
       "ts": "2026-08-20T21:21:27Z"
-    },
-    {
-      "url": "gallery/2026-08-19_01_e63524.jpg",
-      "caption": "A flatcar loaded with stacks of white panels wrapped in a red and black branded cover, moving past a lake with a mountain in the distance.",
-      "ts": "2026-08-19T16:02:47Z"
-    },
-    {
-      "url": "gallery/2026-08-19_02_1b2727.jpg",
-      "caption": "A white BNSF boxcar displays a large, stylized pictorial piece with maroon and green shapes. The car is a BNSF boxcar.",
-      "ts": "2026-08-19T17:06:51Z"
-    },
-    {
-      "url": "gallery/2026-08-19_03_e63524.jpg",
-      "caption": "A flatcar carrying a load of white panels wrapped in a red and black branded cover, passing a lake with a mountain in the background.",
-      "ts": "2026-08-19T16:02:49Z"
     }
   ]
 }
