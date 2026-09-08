@@ -1,11 +1,26 @@
 {
-  "generated": "2026-09-07T13:25:18Z",
+  "generated": "2026-09-08T10:00:33Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-08_02_d501b0.jpg",
+      "caption": "A full white panel is painted with a composed black piece of bold, abstract curved shapes and a small character face, a deliberate mural-style work on a BNSF hopper 479816. A BNSF hopper 479816 passes a lake frontage.",
+      "ts": "2026-09-08T00:09:08Z"
+    },
+    {
+      "url": "gallery/2026-09-07_01_2b4026.jpg",
+      "caption": "A BNSF hopper (487103) carries a striking green-and-black piece: a large white skull character with a glowing eye on the left, blending into a faded green and maroon wash across the panel. The composed, character-driven work makes this the standout of the pass.",
+      "ts": "2026-09-07T20:09:28Z"
+    },
     {
       "url": "gallery/2026-09-07_02_e0fec3.jpg",
       "caption": "The same large pink-and-grey pictorial piece on BNSF BI-MAX 314601 now sits centered, its bold black-outlined shapes and composed figure clearly readable end to end. A second BI-MAX, 314607, follows on the right.",
       "ts": "2026-09-07T00:02:45Z"
+    },
+    {
+      "url": "gallery/2026-09-07_03_0e0fe4.jpg",
+      "caption": "A large, complex wildstyle piece in grey and white tones covering the side of a BNSF 489870 boxcar. The train is moving through a tree-lined cut beside a lake.",
+      "ts": "2026-09-07T19:42:30Z"
     },
     {
       "url": "gallery/2026-09-06_01_f91792.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-21_03_c268df.jpg",
       "caption": "BNSF hopper 483077 features a composed blue and white piece reading 'SUPER CIRE' and 'VISION KAOS' in stylized lettering. The car is framed by a lake and pines.",
       "ts": "2026-08-21T18:03:33Z"
-    },
-    {
-      "url": "gallery/2026-08-20_01_cb1505.jpg",
-      "caption": "A striking white pictorial mural of a locomotive and railway scene wraps the lower half of a maroon BNSF 480156 hopper, its crisp linework standing out against the bare car. The car is centered in the frame.",
-      "ts": "2026-08-20T19:00:05Z"
-    },
-    {
-      "url": "gallery/2026-08-20_02_cb1505.jpg",
-      "caption": "A maroon BNSF 477336 boxcar carries a composed multi-color piece with wildstyle letters and a small character or figure worked into the right side, standing out against the dark paint. A COER car trails at the right edge.",
-      "ts": "2026-08-20T18:59:59Z"
-    },
-    {
-      "url": "gallery/2026-08-20_03_2f6413.jpg",
-      "caption": "A BNSF hopper (478910) covered in a long, ornate multi-color wildstyle piece with dense linework and character-like shapes running the full length of the body. The car is lettered BNSF 478910.",
-      "ts": "2026-08-20T21:21:27Z"
     }
   ]
 }
