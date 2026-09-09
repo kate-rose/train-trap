@@ -1,11 +1,26 @@
 {
-  "generated": "2026-09-08T10:00:33Z",
+  "generated": "2026-09-09T09:06:23Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-08_01_79c8bd.jpg",
+      "caption": "A full-side camo-style piece in brown and tan tones covers a maroon BNSF boxcar, a composed multi-panel design rather than a quick tag. The car is lettered BNSF 493156.",
+      "ts": "2026-09-08T22:19:13Z"
+    },
+    {
+      "url": "gallery/2026-09-08_02_79c8bd.jpg",
+      "caption": "A round white character or emblem is painted on the dark panel of a BNSF 490698 hopper, sitting low in the shadow near the left end. The car passes a calm lake with a snow-capped peak on the far ridge.",
+      "ts": "2026-09-08T22:18:48Z"
+    },
     {
       "url": "gallery/2026-09-08_02_d501b0.jpg",
       "caption": "A full white panel is painted with a composed black piece of bold, abstract curved shapes and a small character face, a deliberate mural-style work on a BNSF hopper 479816. A BNSF hopper 479816 passes a lake frontage.",
       "ts": "2026-09-08T00:09:08Z"
+    },
+    {
+      "url": "gallery/2026-09-08_03_79c8bd.jpg",
+      "caption": "A multi-color graffiti piece with stylized lettering and a character work runs along the lower panel of a BNSF hopper 496041. The car is lettered BNSF and sits on a trackside line with a lake and distant snow-capped peak behind it.",
+      "ts": "2026-09-08T22:19:23Z"
     },
     {
       "url": "gallery/2026-09-07_01_2b4026.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-22_03_f78468.jpg",
       "caption": "A CEFX boxcar dressed in a long composed piece, with a purple dragon-like character on the left, a row of yellow outlined lettering through the middle, and a pink character at the right. Bordered by a round-logo car on the left and a maroon car at the right.",
       "ts": "2026-08-22T20:02:45Z"
-    },
-    {
-      "url": "gallery/2026-08-21_01_e4483b.jpg",
-      "caption": "A BNSF hopper lettered 480970 carrying a small blue character piece on the left and a large white and blue blockbusters piece across the center, with a BNSF 475647 and 'TVISOR' tag on the car to the right.",
-      "ts": "2026-08-21T19:40:24Z"
-    },
-    {
-      "url": "gallery/2026-08-21_02_e4483b.jpg",
-      "caption": "A bold white block-letter piece reading ESHARECT runs across the lower side of a maroon BNSF hopper, with a small green character figure worked into the lettering. The car is lettered BNSF 776300.",
-      "ts": "2026-08-21T19:38:47Z"
-    },
-    {
-      "url": "gallery/2026-08-21_03_c268df.jpg",
-      "caption": "BNSF hopper 483077 features a composed blue and white piece reading 'SUPER CIRE' and 'VISION KAOS' in stylized lettering. The car is framed by a lake and pines.",
-      "ts": "2026-08-21T18:03:33Z"
     }
   ]
 }
