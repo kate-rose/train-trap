@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-09T09:06:23Z",
+  "generated": "2026-09-10T12:09:10Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-09_01_36bcc9.jpg",
+      "caption": "A striking panda head mural in crisp white and black anchors the right panel of this BNSF boxcar, backed by a splash of green and gold leaf-work lettering. The car is lettered BNSF 441726.",
+      "ts": "2026-09-09T21:10:06Z"
+    },
+    {
+      "url": "gallery/2026-09-09_02_36bcc9.jpg",
+      "caption": "A composed piece of stylized characters and a sunburst figure in muted earth tones fills the side of a BNSF hopper lettered 479012. The car is a BNSF hopper lettered 479012.",
+      "ts": "2026-09-09T21:10:00Z"
+    },
+    {
+      "url": "gallery/2026-09-09_03_49ba42.jpg",
+      "caption": "A pink-and-white 'FUCK LOVE' piece with a cartoon character in the middle and green accents, neatly filled and outlined. On a BNSF hopper 476875, the imagery and color make it a standout.",
+      "ts": "2026-09-09T16:49:47Z"
+    },
     {
       "url": "gallery/2026-09-08_01_79c8bd.jpg",
       "caption": "A full-side camo-style piece in brown and tan tones covers a maroon BNSF boxcar, a composed multi-panel design rather than a quick tag. The car is lettered BNSF 493156.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-23_02_076fa9.jpg",
       "caption": "The crowned serpent character and 'ABOUL' lettering are painted in cream on a black TILX tank car, a deliberate pictorial piece on the dark car. The car is lettered 360812 and moves along a lakeside track.",
       "ts": "2026-08-23T15:57:29Z"
-    },
-    {
-      "url": "gallery/2026-08-22_01_e30fe5.jpg",
-      "caption": "A striking multi-color graffiti piece with stylized lettering and cartoonish character work in green, pink, and black covers the side of a beige boxcar. The composition is dense and intentional, making it a standout piece on the train.",
-      "ts": "2026-08-22T17:13:33Z"
-    },
-    {
-      "url": "gallery/2026-08-22_02_3fef33.jpg",
-      "caption": "A BNSF boxcar (496293) carrying a bold black-and-white checkered mural with a central emblem. The car is flanked by a sister BNSF car (499487).",
-      "ts": "2026-08-22T13:40:38Z"
-    },
-    {
-      "url": "gallery/2026-08-22_03_f78468.jpg",
-      "caption": "A CEFX boxcar dressed in a long composed piece, with a purple dragon-like character on the left, a row of yellow outlined lettering through the middle, and a pink character at the right. Bordered by a round-logo car on the left and a maroon car at the right.",
-      "ts": "2026-08-22T20:02:45Z"
     }
   ]
 }
