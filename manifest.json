@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-10T12:09:10Z",
+  "generated": "2026-09-11T09:03:24Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-10_01_3a1e6d.jpg",
+      "caption": "A composed white wildstyle piece with a central character and snowflake accents runs across a maroon BNSF 477978 hopper, the imagery giving it real intent. The car is lettered BNSF 477978.",
+      "ts": "2026-09-10T17:41:22Z"
+    },
+    {
+      "url": "gallery/2026-09-10_02_3a1e6d.jpg",
+      "caption": "A row of white wildstyle lettering with a small character and a circular logo runs along the bottom of a maroon BNSF 479505 hopper. The car is lettered BNSF 479505.",
+      "ts": "2026-09-10T17:41:24Z"
+    },
+    {
+      "url": "gallery/2026-09-10_03_3a1e6d.jpg",
+      "caption": "A multi-color wildstyle piece in white, blue, and black fills the lower half of a maroon BNSF boxcar 492249, with a stylized character worked into the lettering and a 'soler' tag above it. The car sits on a timber crib trackbed with a lake and Mount Hood in the background.",
+      "ts": "2026-09-10T17:40:34Z"
+    },
     {
       "url": "gallery/2026-09-09_01_36bcc9.jpg",
       "caption": "A striking panda head mural in crisp white and black anchors the right panel of this BNSF boxcar, backed by a splash of green and gold leaf-work lettering. The car is lettered BNSF 441726.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-24_03_c91fc5.jpg",
       "caption": "A BNSF 495505 hopper carrying a row of white bubble-style throw-ups with shaded outlines along its lower side. The piece reads as a series of rounded, graffiti characters rather than a single tag.",
       "ts": "2026-08-24T15:12:40Z"
-    },
-    {
-      "url": "gallery/2026-08-24_03_470db9.jpg",
-      "caption": "A composed piece in green and white letters with a small character figure worked into the design covers the lower side of a maroon BNSF hopper. The imagery gives the piece a deliberate, intentional look.",
-      "ts": "2026-08-24T01:31:52Z"
-    },
-    {
-      "url": "gallery/2026-08-23_01_076fa9.jpg",
-      "caption": "A cream-colored serpent character with a crown and the word 'ABOUL' arcs across the side of a black TILX tank car, a composed piece standing out on the dark shell. The car is lettered 360812 and sits beside a lake.",
-      "ts": "2026-08-23T15:57:28Z"
-    },
-    {
-      "url": "gallery/2026-08-23_02_076fa9.jpg",
-      "caption": "The crowned serpent character and 'ABOUL' lettering are painted in cream on a black TILX tank car, a deliberate pictorial piece on the dark car. The car is lettered 360812 and moves along a lakeside track.",
-      "ts": "2026-08-23T15:57:29Z"
     }
   ]
 }
