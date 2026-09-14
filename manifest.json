@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-11T09:03:24Z",
+  "generated": "2026-09-14T13:52:12Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-13_01_87f7cb.jpg",
+      "caption": "A full-length pictorial piece in blue and yellow covers the side of a hopper, featuring a complex pattern of abstract shapes and characters. The car is lettered BNSF 477305.",
+      "ts": "2026-09-13T19:22:14Z"
+    },
+    {
+      "url": "gallery/2026-09-13_02_53dae5.jpg",
+      "caption": "A silver GATX boxcar, 75488, wears a long, low-profile character piece: a stylized brown and cream slug or worm body stretched across the lower panel, with the word SLOW worked into it. The character is composed and intentional, making it the standout of the pass.",
+      "ts": "2026-09-13T21:46:23Z"
+    },
+    {
+      "url": "gallery/2026-09-13_03_b88ad3.jpg",
+      "caption": "A BNSF hopper lettered 474173 shows a full blue-and-white block-letter piece reading \"EIDU\" on a white panel, with a cartoon character in a blue cap worked into the left edge. The BNSF logo reads clean on the factory-red side.",
+      "ts": "2026-09-13T22:39:26Z"
+    },
     {
       "url": "gallery/2026-09-10_01_3a1e6d.jpg",
       "caption": "A composed white wildstyle piece with a central character and snowflake accents runs across a maroon BNSF 477978 hopper, the imagery giving it real intent. The car is lettered BNSF 477978.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-08-25_03_c18a11.jpg",
       "caption": "A white AGPX hopper lettered 16411 carries a row of multi-colored bubble tags and a small character piece along its lower panel. The car is centered in frame against the lake and pines.",
       "ts": "2026-08-25T19:56:48Z"
-    },
-    {
-      "url": "gallery/2026-08-24_01_e4a861.jpg",
-      "caption": "Two stacked throw-up names in green and purple (\"GARYN\" and \"EKIOR\") with fills and small character work span the lower panel of a silver-slatted auto-carrier, a tidy multi-color piece. Calm lake and pines in the background.",
-      "ts": "2026-08-24T18:21:15Z"
-    },
-    {
-      "url": "gallery/2026-08-24_02_e4a861.jpg",
-      "caption": "A CN auto-carrier (CNA 712816) wearing a wide, low graffiti band along its floor — green and orange fills with small character work on the right and a grey block letter set toward the left. Silver slats above, lake and forest behind.",
-      "ts": "2026-08-24T18:21:12Z"
-    },
-    {
-      "url": "gallery/2026-08-24_03_c91fc5.jpg",
-      "caption": "A BNSF 495505 hopper carrying a row of white bubble-style throw-ups with shaded outlines along its lower side. The piece reads as a series of rounded, graffiti characters rather than a single tag.",
-      "ts": "2026-08-24T15:12:40Z"
     }
   ]
 }
