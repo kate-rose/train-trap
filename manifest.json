@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-14T13:52:12Z",
+  "generated": "2026-09-15T12:34:21Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-14_01_8e695d.jpg",
+      "caption": "A large, composed red and blue pictorial piece covers the side of a grey TTX boxcar, reading as a bold abstract mural rather than lettering. The car is a TTX boxcar lettered 708370.",
+      "ts": "2026-09-14T15:53:11Z"
+    },
+    {
+      "url": "gallery/2026-09-14_02_c338c6.jpg",
+      "caption": "A BNSF 474768 hopper is wrapped in a large white-and-black pictorial piece, big stylized character shapes filling the whole side panel with a circular logo at the end. A composed, image-first work that stands out strongly.",
+      "ts": "2026-09-14T22:15:38Z"
+    },
+    {
+      "url": "gallery/2026-09-14_03_1837fb.jpg",
+      "caption": "A large white stencil-style piece with a heart and character imagery covers the full side of a grey auto-rack, with a dark tag on the right end. The car is centered, with a brown boxcar and a yellow auto-rack flanking it.",
+      "ts": "2026-09-14T16:55:42Z"
+    },
     {
       "url": "gallery/2026-09-13_01_87f7cb.jpg",
       "caption": "A full-length pictorial piece in blue and yellow covers the side of a hopper, featuring a complex pattern of abstract shapes and characters. The car is lettered BNSF 477305.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-03_03_be8b80.jpg",
       "caption": "A rusted intermodal well car carrying a grey container carries a long multi-color throw-up piece along its lower side, with a readable white tag above it. The piece runs the length of the panel in mixed colors, a standard letter-based graffiti run.",
       "ts": "2026-09-03T21:57:38Z"
-    },
-    {
-      "url": "gallery/2026-08-25_01_b3e830.jpg",
-      "caption": "A composed multi-color piece with character work and a red, blue, and white palette runs along the lower side of a maroon BNSF boxcar lettered 728 483, a real composed piece on a tired road. A CSX car is at the right edge.",
-      "ts": "2026-08-25T16:19:56Z"
-    },
-    {
-      "url": "gallery/2026-08-25_02_c0a2a2.jpg",
-      "caption": "A large, busy multi-color piece with character figures and lettering covers the lower half of a dark maroon CN boxcar. The car is lettered CN on the upper right.",
-      "ts": "2026-08-25T21:56:54Z"
-    },
-    {
-      "url": "gallery/2026-08-25_03_c18a11.jpg",
-      "caption": "A white AGPX hopper lettered 16411 carries a row of multi-colored bubble tags and a small character piece along its lower panel. The car is centered in frame against the lake and pines.",
-      "ts": "2026-08-25T19:56:48Z"
     }
   ]
 }
