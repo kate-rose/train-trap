@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-15T12:34:21Z",
+  "generated": "2026-09-16T09:27:29Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-15_01_281cce.jpg",
+      "caption": "A composed multi-color piece with a row of stylized characters and green accents fills the lower panel of a GATX boxcar lettered 75335. The lettering is worked into a deliberate, picture-like composition that stands out from the routine tags on the rest of the train.",
+      "ts": "2026-09-15T18:43:30Z"
+    },
+    {
+      "url": "gallery/2026-09-15_02_281cce.jpg",
+      "caption": "The same winged character piece from the previous frame is now seen on the left as the BNSF 482998 boxcar moves further into view, revealing a white 'JASON' throw-up on its right side. The train continues past the lake.",
+      "ts": "2026-09-15T18:42:13Z"
+    },
+    {
+      "url": "gallery/2026-09-15_03_281cce.jpg",
+      "caption": "A striking piece of white and black wildstyle lettering with a large, detailed winged character dominates the side of a BNSF boxcar. The artwork is crisp against the maroon paint, set against a lake and mountain view.",
+      "ts": "2026-09-15T18:42:12Z"
+    },
     {
       "url": "gallery/2026-09-14_01_8e695d.jpg",
       "caption": "A large, composed red and blue pictorial piece covers the side of a grey TTX boxcar, reading as a bold abstract mural rather than lettering. The car is a TTX boxcar lettered 708370.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-04_02_b8e2f1.jpg",
       "caption": "The same flowing brown and blue character piece is visible on the right car, lettered TILX 314862, with a small white tag on the left car. The piece is partly hidden by a foreground pine.",
       "ts": "2026-09-04T17:35:41Z"
-    },
-    {
-      "url": "gallery/2026-09-04_02_225e44.jpg",
-      "caption": "A wildstyle piece in bright blue and green with heavy outline work sits low on the panel, flanked by two white skull carvings that give it a real focal point. It rides a BNSF boxcar lettered 48574, passing a lake at dusk.",
-      "ts": "2026-09-04T01:53:51Z"
-    },
-    {
-      "url": "gallery/2026-09-04_03_e0d363.jpg",
-      "caption": "A BNSF hopper 476216 carrying a composed blue piece that works a horned character face into the lettering, with a matching character on the right end. The piece is intentional and character-driven rather than a plain tag run. It passes a tree-lined cut beside a wide lake under a flat grey sky.",
-      "ts": "2026-09-04T22:33:58Z"
-    },
-    {
-      "url": "gallery/2026-09-03_03_be8b80.jpg",
-      "caption": "A rusted intermodal well car carrying a grey container carries a long multi-color throw-up piece along its lower side, with a readable white tag above it. The piece runs the length of the panel in mixed colors, a standard letter-based graffiti run.",
-      "ts": "2026-09-03T21:57:38Z"
     }
   ]
 }
