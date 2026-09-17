@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-16T09:27:29Z",
+  "generated": "2026-09-17T10:19:43Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-16_01_073d1b.jpg",
+      "caption": "A composed piece with a teal-capped cartoon character face worked between bubble letters in white, blue, and green on a maroon BNSF hopper (490548). It is the cleanest, most intentional piece of the pass, set against the lake and pines.",
+      "ts": "2026-09-16T14:31:08Z"
+    },
+    {
+      "url": "gallery/2026-09-16_02_f66cff.jpg",
+      "caption": "A multi-color piece of blue, white, and red lettering with character work is visible on the lower half of a yellow TTX boxcar, the piece text reading 'TTX' in the center. The car is lettered 'Railcar Pooling Experts' above the art.",
+      "ts": "2026-09-16T18:34:39Z"
+    },
+    {
+      "url": "gallery/2026-09-16_03_ad5c55.jpg",
+      "caption": "A BNSF hopper lettered 441730 carries a multi-color piece with stylized letters and a row of pointed pink-and-green shapes along its lower panel, the most colorful paint in this pass. The car reads BNSF with the road name in white.",
+      "ts": "2026-09-16T22:10:26Z"
+    },
     {
       "url": "gallery/2026-09-15_01_281cce.jpg",
       "caption": "A composed multi-color piece with a row of stylized characters and green accents fills the lower panel of a GATX boxcar lettered 75335. The lettering is worked into a deliberate, picture-like composition that stands out from the routine tags on the rest of the train.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-05_01_b40a7f.jpg",
       "caption": "A painted portrait of a man's face in pale blue and white sits on the side of a BNSF 489333 boxcar, a clean character piece standing out on the dark red panel. The car is centered on the lakeside cut under a cloudy sky.",
       "ts": "2026-09-05T00:14:14Z"
-    },
-    {
-      "url": "gallery/2026-09-05_03_f89e6c.jpg",
-      "caption": "A colorful piece with a character and large stylized letters in blue, orange, and white covers the left panel of a BNSF hopper numbered 495688. The car is centered in the frame against the lake and forested hills.",
-      "ts": "2026-09-05T22:17:11Z"
-    },
-    {
-      "url": "gallery/2026-09-04_01_225e44.jpg",
-      "caption": "A composed character piece in teal, orange, and black fills the side of a white SOIX 520911 boxcar, with a stylized face and creature work that reads as intentional art. The AOK 202272 from the previous frame is now clipped on the right.",
-      "ts": "2026-09-04T01:53:22Z"
-    },
-    {
-      "url": "gallery/2026-09-04_02_b8e2f1.jpg",
-      "caption": "The same flowing brown and blue character piece is visible on the right car, lettered TILX 314862, with a small white tag on the left car. The piece is partly hidden by a foreground pine.",
-      "ts": "2026-09-04T17:35:41Z"
     }
   ]
 }
