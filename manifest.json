@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-17T10:19:43Z",
+  "generated": "2026-09-18T10:57:17Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-18_03_292bba.jpg",
+      "caption": "A white auto-carrier is a busy multi-piece canvas, with a prominent blue 'GATX' lettered panel, a colorful red and green piece on the right, and a small character or figure worked into the louvered sections. The layered, multi-color paint makes it the standout car of the pass.",
+      "ts": "2026-09-18T00:39:51Z"
+    },
+    {
+      "url": "gallery/2026-09-17_01_7beafd.jpg",
+      "caption": "A full-length painted mural in muted earth tones covers the side of NOKL boxcar 447541, its imagery running across the whole panel. The piece is set against a wide lake and a distant mountain under a soft, cloudy sky.",
+      "ts": "2026-09-17T17:51:07Z"
+    },
+    {
+      "url": "gallery/2026-09-17_02_7beafd.jpg",
+      "caption": "A muted architectural mural in grey and olive tones covers the side of WFRX boxcar 447325, its geometric imagery spanning the panel. The car is framed by a white boxcar on the left and a BNSF on the right.",
+      "ts": "2026-09-17T17:51:12Z"
+    },
     {
       "url": "gallery/2026-09-16_01_073d1b.jpg",
       "caption": "A composed piece with a teal-capped cartoon character face worked between bubble letters in white, blue, and green on a maroon BNSF hopper (490548). It is the cleanest, most intentional piece of the pass, set against the lake and pines.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-06_02_09d132.jpg",
       "caption": "A rusted hopper carries a multi-color wildstyle letter piece in teal and blue with a red character figure worked into the center. The car sits mid-frame on a lakeside cut, with a plain white AOKX car trailing at the left edge.",
       "ts": "2026-09-06T00:40:40Z"
-    },
-    {
-      "url": "gallery/2026-09-06_03_f91792.jpg",
-      "caption": "A row of stylized, star-patterned figures in green, yellow, and purple runs along the lower side of this maroon boxcar, a composed, intentional pictorial piece rather than standard lettering. The figures are evenly spaced and clearly deliberate.",
-      "ts": "2026-09-06T19:54:52Z"
-    },
-    {
-      "url": "gallery/2026-09-05_01_f89e6c.jpg",
-      "caption": "A striking black-and-white pictorial piece covers the side of a BNSF boxcar 499580, its abstract winged shapes reading like a mural. The car rolls past the lake with a maroon BNSF car flanking each end.",
-      "ts": "2026-09-05T22:16:08Z"
-    },
-    {
-      "url": "gallery/2026-09-05_01_b40a7f.jpg",
-      "caption": "A painted portrait of a man's face in pale blue and white sits on the side of a BNSF 489333 boxcar, a clean character piece standing out on the dark red panel. The car is centered on the lakeside cut under a cloudy sky.",
-      "ts": "2026-09-05T00:14:14Z"
     }
   ]
 }
