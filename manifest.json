@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-19T08:55:45Z",
+  "generated": "2026-09-20T09:40:54Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-19_01_b963b9.jpg",
+      "caption": "A long, low mural of pale blue and white stylized wave or ribbon shapes with small colored accents fills the lower panel of a Ferromex auto-carrier, a composed pictorial piece rather than standard lettering. The car sits beside a lake with a forested shoreline and a snow-capped peak behind.",
+      "ts": "2026-09-19T20:16:49Z"
+    },
+    {
+      "url": "gallery/2026-09-19_02_b963b9.jpg",
+      "caption": "The same pale blue and white wave-style pictorial mural seen on the previous car continues along the lower panel of this Ferromex auto-carrier, a clean composed piece. A CSX auto-carrier is clipped at the right edge.",
+      "ts": "2026-09-19T20:16:50Z"
+    },
+    {
+      "url": "gallery/2026-09-19_03_38bbbf.jpg",
+      "caption": "A multi-color piece with a stylized character and outline work is painted on the lower side of a Union Pacific boxcar. The piece is a standard graffiti style, with the car's factory paint visible above it.",
+      "ts": "2026-09-19T16:25:18Z"
+    },
     {
       "url": "gallery/2026-09-19_03_93b015.jpg",
       "caption": "A multi-colored, outlined blockbusters piece in teal, pink, and yellow sits low on the panel next to a white circular character logo, covering most of the car's side. It is a BNSF hopper lettered 475343.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-08_02_d501b0.jpg",
       "caption": "A full white panel is painted with a composed black piece of bold, abstract curved shapes and a small character face, a deliberate mural-style work on a BNSF hopper 479816. A BNSF hopper 479816 passes a lake frontage.",
       "ts": "2026-09-08T00:09:08Z"
-    },
-    {
-      "url": "gallery/2026-09-08_03_79c8bd.jpg",
-      "caption": "A multi-color graffiti piece with stylized lettering and a character work runs along the lower panel of a BNSF hopper 496041. The car is lettered BNSF and sits on a trackside line with a lake and distant snow-capped peak behind it.",
-      "ts": "2026-09-08T22:19:23Z"
-    },
-    {
-      "url": "gallery/2026-09-07_01_2b4026.jpg",
-      "caption": "A BNSF hopper (487103) carries a striking green-and-black piece: a large white skull character with a glowing eye on the left, blending into a faded green and maroon wash across the panel. The composed, character-driven work makes this the standout of the pass.",
-      "ts": "2026-09-07T20:09:28Z"
-    },
-    {
-      "url": "gallery/2026-09-07_02_e0fec3.jpg",
-      "caption": "The same large pink-and-grey pictorial piece on BNSF BI-MAX 314601 now sits centered, its bold black-outlined shapes and composed figure clearly readable end to end. A second BI-MAX, 314607, follows on the right.",
-      "ts": "2026-09-07T00:02:45Z"
     }
   ]
 }
