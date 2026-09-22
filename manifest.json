@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-21T14:28:04Z",
+  "generated": "2026-09-22T07:34:04Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-21_01_e9a135.jpg",
+      "caption": "A large, multi-colored piece with purple and blue wildstyle lettering and a spiked, flame-like lower fill runs along the bottom of a grey boxcar. The car sits on a track by a body of water with a forested hillside behind it.",
+      "ts": "2026-09-21T23:51:51Z"
+    },
+    {
+      "url": "gallery/2026-09-21_02_e9a135.jpg",
+      "caption": "A boxcar with a 'CN' logo and a large, multi-colored piece of graffiti featuring stylized characters and imagery along the bottom. The piece is a more complex work of art on a tan car, with green and white colors.",
+      "ts": "2026-09-21T23:50:25Z"
+    },
+    {
+      "url": "gallery/2026-09-21_03_e9a135.jpg",
+      "caption": "A Kansas City Southern boxcar with a 'Building America' logo and a piece of graffiti that includes stylized characters or imagery along the bottom. The piece is a mix of letters and shapes on a tan car.",
+      "ts": "2026-09-21T23:50:25Z"
+    },
     {
       "url": "gallery/2026-09-20_01_9b4b34.jpg",
       "caption": "A multi-color piece with peach and teal letters and a character element covers the side of a TILX hopper. The car is a TILX 541100, passing along a lakeside cut.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-10_03_3a1e6d.jpg",
       "caption": "A multi-color wildstyle piece in white, blue, and black fills the lower half of a maroon BNSF boxcar 492249, with a stylized character worked into the lettering and a 'soler' tag above it. The car sits on a timber crib trackbed with a lake and Mount Hood in the background.",
       "ts": "2026-09-10T17:40:34Z"
-    },
-    {
-      "url": "gallery/2026-09-09_01_36bcc9.jpg",
-      "caption": "A striking panda head mural in crisp white and black anchors the right panel of this BNSF boxcar, backed by a splash of green and gold leaf-work lettering. The car is lettered BNSF 441726.",
-      "ts": "2026-09-09T21:10:06Z"
-    },
-    {
-      "url": "gallery/2026-09-09_02_36bcc9.jpg",
-      "caption": "A composed piece of stylized characters and a sunburst figure in muted earth tones fills the side of a BNSF hopper lettered 479012. The car is a BNSF hopper lettered 479012.",
-      "ts": "2026-09-09T21:10:00Z"
-    },
-    {
-      "url": "gallery/2026-09-09_03_49ba42.jpg",
-      "caption": "A pink-and-white 'FUCK LOVE' piece with a cartoon character in the middle and green accents, neatly filled and outlined. On a BNSF hopper 476875, the imagery and color make it a standout.",
-      "ts": "2026-09-09T16:49:47Z"
     }
   ]
 }
