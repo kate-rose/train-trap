@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-22T07:34:04Z",
+  "generated": "2026-09-23T09:27:59Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-22_01_766ff0.jpg",
+      "caption": "A cream hopper holds a composed piece: a blue cartoon character with a rounded face and eyes flanked by a yellow-orange bubble-letter piece and a small 'Coffee' logo. The character work makes it a standout pictorial-letters piece.",
+      "ts": "2026-09-22T21:20:07Z"
+    },
+    {
+      "url": "gallery/2026-09-22_02_3615f5.jpg",
+      "caption": "A BNSF boxcar, 485894, is covered in a yellow and green wildstyle piece with a clean white panda face worked into the lettering. The character face lifts it above a standard throw-up.",
+      "ts": "2026-09-22T14:12:53Z"
+    },
+    {
+      "url": "gallery/2026-09-22_03_3615f5.jpg",
+      "caption": "A COER boxcar, 723456, wears a yellow and blue piece reading 'FIRE EAGLE' with two small white face characters flanking the text. Bright, composed, and easy to read.",
+      "ts": "2026-09-22T14:12:54Z"
+    },
     {
       "url": "gallery/2026-09-21_01_e9a135.jpg",
       "caption": "A large, multi-colored piece with purple and blue wildstyle lettering and a spiked, flame-like lower fill runs along the bottom of a grey boxcar. The car sits on a track by a body of water with a forested hillside behind it.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-13_03_b88ad3.jpg",
       "caption": "A BNSF hopper lettered 474173 shows a full blue-and-white block-letter piece reading \"EIDU\" on a white panel, with a cartoon character in a blue cap worked into the left edge. The BNSF logo reads clean on the factory-red side.",
       "ts": "2026-09-13T22:39:26Z"
-    },
-    {
-      "url": "gallery/2026-09-10_01_3a1e6d.jpg",
-      "caption": "A composed white wildstyle piece with a central character and snowflake accents runs across a maroon BNSF 477978 hopper, the imagery giving it real intent. The car is lettered BNSF 477978.",
-      "ts": "2026-09-10T17:41:22Z"
-    },
-    {
-      "url": "gallery/2026-09-10_02_3a1e6d.jpg",
-      "caption": "A row of white wildstyle lettering with a small character and a circular logo runs along the bottom of a maroon BNSF 479505 hopper. The car is lettered BNSF 479505.",
-      "ts": "2026-09-10T17:41:24Z"
-    },
-    {
-      "url": "gallery/2026-09-10_03_3a1e6d.jpg",
-      "caption": "A multi-color wildstyle piece in white, blue, and black fills the lower half of a maroon BNSF boxcar 492249, with a stylized character worked into the lettering and a 'soler' tag above it. The car sits on a timber crib trackbed with a lake and Mount Hood in the background.",
-      "ts": "2026-09-10T17:40:34Z"
     }
   ]
 }
