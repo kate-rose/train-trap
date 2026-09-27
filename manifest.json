@@ -1,11 +1,26 @@
 {
-  "generated": "2026-09-26T10:07:51Z",
+  "generated": "2026-09-27T10:27:03Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-26_01_05b473.jpg",
+      "caption": "A composed botanical mural of green leaves and pale blossoms sweeps the lower half of a brown BNSF boxcar 476708, framed by white GATX hoppers on either side, the round road symbol untouched above.",
+      "ts": "2026-09-26T18:31:29Z"
+    },
+    {
+      "url": "gallery/2026-09-26_02_edf012.jpg",
+      "caption": "A mustard-yellow TTX intermodal well car carries a composed piece along its lower half: a row of colorful character and figure work in blues, greens, and pinks running the length of the panel, set against the dark TTX door. The car is lettered TTX 78 0X 63 93.",
+      "ts": "2026-09-26T18:00:56Z"
+    },
     {
       "url": "gallery/2026-09-26_02_68d4d5.jpg",
       "caption": "The same green and yellow wildstyle piece with a character figure is now centered in frame on a WFRX boxcar lettered 806113. A blue and green tag sits on the car to the right.",
       "ts": "2026-09-26T00:21:32Z"
+    },
+    {
+      "url": "gallery/2026-09-26_03_05b473.jpg",
+      "caption": "A green leafy mural with pale flower accents is painted across the lower side of a brown BNSF boxcar, a picture-first piece that pops against the dark body, with a white COER hopper at right.",
+      "ts": "2026-09-26T18:31:29Z"
     },
     {
       "url": "gallery/2026-09-25_01_27bb05.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-17_02_7beafd.jpg",
       "caption": "A muted architectural mural in grey and olive tones covers the side of WFRX boxcar 447325, its geometric imagery spanning the panel. The car is framed by a white boxcar on the left and a BNSF on the right.",
       "ts": "2026-09-17T17:51:12Z"
-    },
-    {
-      "url": "gallery/2026-09-16_01_073d1b.jpg",
-      "caption": "A composed piece with a teal-capped cartoon character face worked between bubble letters in white, blue, and green on a maroon BNSF hopper (490548). It is the cleanest, most intentional piece of the pass, set against the lake and pines.",
-      "ts": "2026-09-16T14:31:08Z"
-    },
-    {
-      "url": "gallery/2026-09-16_02_f66cff.jpg",
-      "caption": "A multi-color piece of blue, white, and red lettering with character work is visible on the lower half of a yellow TTX boxcar, the piece text reading 'TTX' in the center. The car is lettered 'Railcar Pooling Experts' above the art.",
-      "ts": "2026-09-16T18:34:39Z"
-    },
-    {
-      "url": "gallery/2026-09-16_03_ad5c55.jpg",
-      "caption": "A BNSF hopper lettered 441730 carries a multi-color piece with stylized letters and a row of pointed pink-and-green shapes along its lower panel, the most colorful paint in this pass. The car reads BNSF with the road name in white.",
-      "ts": "2026-09-16T22:10:26Z"
     }
   ]
 }
