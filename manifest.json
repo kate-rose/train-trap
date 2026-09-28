@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-27T10:27:03Z",
+  "generated": "2026-09-28T15:51:08Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-28_02_5871f3.jpg",
+      "caption": "A multi-color piece on a BNSF 473110 hopper features a green character with a face next to stylized orange and blue lettering. The artwork is composed and intentional, with a distinct character element.",
+      "ts": "2026-09-28T00:05:40Z"
+    },
+    {
+      "url": "gallery/2026-09-28_03_5871f3.jpg",
+      "caption": "A bold white and green throw-up spelling 'SURB' with a stylized face character worked into the lettering dominates the side of a maroon BNSF hopper 481957. The piece reads clean against the factory paint, with a BNSF unit trailing behind on the left.",
+      "ts": "2026-09-28T00:05:56Z"
+    },
+    {
+      "url": "gallery/2026-09-27_01_831855.jpg",
+      "caption": "The same composed character piece on BNSF hopper 475253 — a sunglasses-wearing figure with a raised fist in grey, white, and red, plus a circular emblem — is fully in frame here. The intentional imagery stands out on the dark red panel.",
+      "ts": "2026-09-27T23:42:28Z"
+    },
     {
       "url": "gallery/2026-09-26_01_05b473.jpg",
       "caption": "A composed botanical mural of green leaves and pale blossoms sweeps the lower half of a brown BNSF boxcar 476708, framed by white GATX hoppers on either side, the round road symbol untouched above.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-18_02_c33aec.jpg",
       "caption": "A multi-colored graffiti piece with green and white lettering and a circular logo is painted on a brown BNSF hopper car, number 479954. The art is spread across the lower half of the car.",
       "ts": "2026-09-18T20:45:20Z"
-    },
-    {
-      "url": "gallery/2026-09-18_03_292bba.jpg",
-      "caption": "A white auto-carrier is a busy multi-piece canvas, with a prominent blue 'GATX' lettered panel, a colorful red and green piece on the right, and a small character or figure worked into the louvered sections. The layered, multi-color paint makes it the standout car of the pass.",
-      "ts": "2026-09-18T00:39:51Z"
-    },
-    {
-      "url": "gallery/2026-09-17_01_7beafd.jpg",
-      "caption": "A full-length painted mural in muted earth tones covers the side of NOKL boxcar 447541, its imagery running across the whole panel. The piece is set against a wide lake and a distant mountain under a soft, cloudy sky.",
-      "ts": "2026-09-17T17:51:07Z"
-    },
-    {
-      "url": "gallery/2026-09-17_02_7beafd.jpg",
-      "caption": "A muted architectural mural in grey and olive tones covers the side of WFRX boxcar 447325, its geometric imagery spanning the panel. The car is framed by a white boxcar on the left and a BNSF on the right.",
-      "ts": "2026-09-17T17:51:12Z"
     }
   ]
 }
