@@ -1,7 +1,22 @@
 {
-  "generated": "2026-09-28T15:51:08Z",
+  "generated": "2026-09-30T11:18:59Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-09-30_03_7f1eb8.jpg",
+      "caption": "A yellow and black piece on a GATX WBRK 9348 hopper pairs a big yellow letter run with a stenciled character figure and face in the center. The GATX road name reads clean on the right.",
+      "ts": "2026-09-30T00:34:42Z"
+    },
+    {
+      "url": "gallery/2026-09-29_01_42073a.jpg",
+      "caption": "A composed piece with a sun-burst character and red-and-blue lettering fills the lower panel of a rust-red hopper, with a circular logo on the upper right. The hopper is lettered GGCX 55 0222.",
+      "ts": "2026-09-29T17:23:34Z"
+    },
+    {
+      "url": "gallery/2026-09-29_02_fa3780.jpg",
+      "caption": "A striking monochrome piece covers the side of COER boxcar 311668, its large black letterforms set against a cracked, marble-like grey ground that fills the whole panel. The high-contrast, composed design reads as intentional art rather than a quick tag, a standout piece on the train.",
+      "ts": "2026-09-29T23:32:27Z"
+    },
     {
       "url": "gallery/2026-09-28_02_5871f3.jpg",
       "caption": "A multi-color piece on a BNSF 473110 hopper features a green character with a face next to stylized orange and blue lettering. The artwork is composed and intentional, with a distinct character element.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-19_03_38bbbf.jpg",
       "caption": "A multi-color piece with a stylized character and outline work is painted on the lower side of a Union Pacific boxcar. The piece is a standard graffiti style, with the car's factory paint visible above it.",
       "ts": "2026-09-19T16:25:18Z"
-    },
-    {
-      "url": "gallery/2026-09-19_03_93b015.jpg",
-      "caption": "A multi-colored, outlined blockbusters piece in teal, pink, and yellow sits low on the panel next to a white circular character logo, covering most of the car's side. It is a BNSF hopper lettered 475343.",
-      "ts": "2026-09-19T00:44:44Z"
-    },
-    {
-      "url": "gallery/2026-09-18_01_c33aec.jpg",
-      "caption": "A large, composed white character piece with intricate linework and shading is worked onto the side of this BNSF boxcar, a deliberate mural-style figure standing out on the maroon paint. It is paired with a clean BNSF 477354 on the right.",
-      "ts": "2026-09-18T20:45:40Z"
-    },
-    {
-      "url": "gallery/2026-09-18_02_c33aec.jpg",
-      "caption": "A multi-colored graffiti piece with green and white lettering and a circular logo is painted on a brown BNSF hopper car, number 479954. The art is spread across the lower half of the car.",
-      "ts": "2026-09-18T20:45:20Z"
     }
   ]
 }
