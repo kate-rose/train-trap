@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-10-01_03_2daf20.jpg",
+      "event_id": "2daf2078f965",
+      "rank": 3,
+      "caption": "A dark brown boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
+      "captured_at": 1790867275
+    },
+    {
+      "file": "2026-10-01_02_2daf20.jpg",
+      "event_id": "2daf2078f965",
+      "rank": 2,
+      "caption": "A tan-colored boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
+      "captured_at": 1790867275
+    },
+    {
+      "file": "2026-10-01_01_2daf20.jpg",
+      "event_id": "2daf2078f965",
+      "rank": 1,
+      "caption": "A white block-letter piece reading 'SCE' or similar sits low on the right side of a brown boxcar, standing out against the dull factory paint. The car is lettered MOW, with a lake and a distant peak behind it.",
+      "captured_at": 1790867339
+    },
+    {
       "file": "2026-09-30_03_fb2ef4.jpg",
       "event_id": "fb2ef43218c2",
       "rank": 3,

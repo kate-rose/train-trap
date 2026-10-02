@@ -1,7 +1,22 @@
 {
-  "generated": "2026-10-01T14:42:36Z",
+  "generated": "2026-10-02T13:03:30Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-10-01_01_2daf20.jpg",
+      "caption": "A white block-letter piece reading 'SCE' or similar sits low on the right side of a brown boxcar, standing out against the dull factory paint. The car is lettered MOW, with a lake and a distant peak behind it.",
+      "ts": "2026-10-01T15:08:59Z"
+    },
+    {
+      "url": "gallery/2026-10-01_02_2daf20.jpg",
+      "caption": "A tan-colored boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
+      "ts": "2026-10-01T15:07:55Z"
+    },
+    {
+      "url": "gallery/2026-10-01_03_2daf20.jpg",
+      "caption": "A dark brown boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
+      "ts": "2026-10-01T15:07:55Z"
+    },
     {
       "url": "gallery/2026-09-30_01_35d564.jpg",
       "caption": "A wildstyle throw-up in green, red, and white sits low along the BNSF 492646 side, layered blocky letters with a touch of character work. It reads as a proper multi-color piece against the maroon panel.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-21_03_e9a135.jpg",
       "caption": "A Kansas City Southern boxcar with a 'Building America' logo and a piece of graffiti that includes stylized characters or imagery along the bottom. The piece is a mix of letters and shapes on a tan car.",
       "ts": "2026-09-21T23:50:25Z"
-    },
-    {
-      "url": "gallery/2026-09-20_01_9b4b34.jpg",
-      "caption": "A multi-color piece with peach and teal letters and a character element covers the side of a TILX hopper. The car is a TILX 541100, passing along a lakeside cut.",
-      "ts": "2026-09-20T15:26:53Z"
-    },
-    {
-      "url": "gallery/2026-09-20_02_9b4b34.jpg",
-      "caption": "A multi-color piece with peach and teal letters and a character element covers the side of a TILX hopper. The car is a TILX 540908, passing along a lakeside cut.",
-      "ts": "2026-09-20T15:26:48Z"
-    },
-    {
-      "url": "gallery/2026-09-20_03_9b4b34.jpg",
-      "caption": "A bold, dark throw-up with pink and purple accents covers the side of an AGPX hopper, the piece's letters reading roughly 'SAGA'. It sits on a tree-lined track beside a calm lake.",
-      "ts": "2026-09-20T15:25:50Z"
     }
   ]
 }
