@@ -1,7 +1,22 @@
 {
-  "generated": "2026-10-03T07:52:16Z",
+  "generated": "2026-10-04T11:14:54Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-10-04_01_96def1.jpg",
+      "caption": "A silver auto-rack carries a low band of dark wildstyle lettering with a touch of red fill along its lower panel. The piece sits on a corrugated side that otherwise reads clean.",
+      "ts": "2026-10-04T01:41:33Z"
+    },
+    {
+      "url": "gallery/2026-10-04_02_96def1.jpg",
+      "caption": "The tail end of the maroon car shows the final letters of a white-outlined black piece, followed by a clean yellow-framed car. The train is moving past a calm river at dusk.",
+      "ts": "2026-10-04T01:41:52Z"
+    },
+    {
+      "url": "gallery/2026-10-04_03_96def1.jpg",
+      "caption": "A large maroon car features bold, white-outlined black wildstyle lettering across its side. The train is moving past a calm river at dusk.",
+      "ts": "2026-10-04T01:41:51Z"
+    },
     {
       "url": "gallery/2026-10-02_01_d4f8f4.jpg",
       "caption": "A BNSF boxcar (478369) wears a tasteful, composed piece: a large circular emblem on the right panel and a stylized figure or character on the left, both in muted golds and creams that read as intentional art rather than raw tags. The car's maroon body and the calm lake-and-mountain backdrop give the paint a clean, gallery-like setting.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-23_03_760bf2.jpg",
       "caption": "A bold yellow and blue wildstyle piece with tight linework and a small character element fills the left panel of this white GATX intermodal well car, reporting marks COER 352911. A plain white well car sits to the right.",
       "ts": "2026-09-23T19:46:39Z"
-    },
-    {
-      "url": "gallery/2026-09-22_01_766ff0.jpg",
-      "caption": "A cream hopper holds a composed piece: a blue cartoon character with a rounded face and eyes flanked by a yellow-orange bubble-letter piece and a small 'Coffee' logo. The character work makes it a standout pictorial-letters piece.",
-      "ts": "2026-09-22T21:20:07Z"
-    },
-    {
-      "url": "gallery/2026-09-22_02_3615f5.jpg",
-      "caption": "A BNSF boxcar, 485894, is covered in a yellow and green wildstyle piece with a clean white panda face worked into the lettering. The character face lifts it above a standard throw-up.",
-      "ts": "2026-09-22T14:12:53Z"
-    },
-    {
-      "url": "gallery/2026-09-22_03_3615f5.jpg",
-      "caption": "A COER boxcar, 723456, wears a yellow and blue piece reading 'FIRE EAGLE' with two small white face characters flanking the text. Bright, composed, and easy to read.",
-      "ts": "2026-09-22T14:12:54Z"
     }
   ]
 }

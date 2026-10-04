@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "file": "2026-10-04_03_96def1.jpg",
+      "event_id": "96def1aa4c34",
+      "rank": 3,
+      "caption": "A large maroon car features bold, white-outlined black wildstyle lettering across its side. The train is moving past a calm river at dusk.",
+      "captured_at": 1791078111
+    },
+    {
+      "file": "2026-10-04_02_96def1.jpg",
+      "event_id": "96def1aa4c34",
+      "rank": 2,
+      "caption": "The tail end of the maroon car shows the final letters of a white-outlined black piece, followed by a clean yellow-framed car. The train is moving past a calm river at dusk.",
+      "captured_at": 1791078112
+    },
+    {
+      "file": "2026-10-04_01_96def1.jpg",
+      "event_id": "96def1aa4c34",
+      "rank": 1,
+      "caption": "A silver auto-rack carries a low band of dark wildstyle lettering with a touch of red fill along its lower panel. The piece sits on a corrugated side that otherwise reads clean.",
+      "captured_at": 1791078093
+    },
+    {
       "file": "2026-10-02_03_cda592.jpg",
       "event_id": "cda592d12158",
       "rank": 3,
