@@ -1,7 +1,22 @@
 {
-  "generated": "2026-10-05T07:35:20Z",
+  "generated": "2026-10-06T10:42:12Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-10-06_01_0eb51c.jpg",
+      "caption": "A composed character piece in teal, orange, and white with a stylized figure and abstract shapes is worked across the lower panel of a maroon BNSF hopper. A BNSF 479375 sits at the left edge.",
+      "ts": "2026-10-06T00:23:08Z"
+    },
+    {
+      "url": "gallery/2026-10-06_02_0eb51c.jpg",
+      "caption": "A bold, composed piece of thick white block letters on a dark background dominates the side of BNSF hopper 479369, with smaller white tags above. It is the strongest, most intentional work in the pass.",
+      "ts": "2026-10-06T00:22:58Z"
+    },
+    {
+      "url": "gallery/2026-10-05_03_e799b7.jpg",
+      "caption": "A yellow TTX boxcar carries a row of outlined blockbusters and small character tags along its lower panel, the most composed paint yet on the train. The TB OX car from the prior frame trails at the right.",
+      "ts": "2026-10-05T15:47:31Z"
+    },
     {
       "url": "gallery/2026-10-04_01_5a63c5.jpg",
       "caption": "A BNSF hopper 441726 wears a composed piece: green and white wildstyle lettering paired with a large white cartoon character face with big dark eyes on the right panel. The character work lifts it well above a routine throw-up. Flanked by BNSF 476900 and 495636.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-25_03_e2fe21.jpg",
       "caption": "Big bold KAFIA lettering in dark maroon on a pale green field wraps the whole side of a BNSF 488858 hopper, a clean, intentional full-panel piece. The lake and far hills sit behind it.",
       "ts": "2026-09-25T18:45:05Z"
-    },
-    {
-      "url": "gallery/2026-09-24_01_c4a213.jpg",
-      "caption": "A bold multi-color throw-up spelling a stylized word in pink, grey, and black block letters fills the whole side of this white boxcar 85202, the piece the camera exists for. The letters are large, composed, and unmissable.",
-      "ts": "2026-09-24T17:53:13Z"
-    },
-    {
-      "url": "gallery/2026-09-24_02_beb9b6.jpg",
-      "caption": "A white and red letter piece with a dark character or imagery worked into the center is painted across the side of a white COER boxcar. The composition reads as a deliberate multi-color piece rather than a quick tag.",
-      "ts": "2026-09-24T18:15:53Z"
-    },
-    {
-      "url": "gallery/2026-09-24_03_e1f41a.jpg",
-      "caption": "A pink and white letter piece with a small character element sits on a grey auto-carrier, backed by a blue throw-up on the adjacent orange car. The train rolls past a lake with a forested far shore under a grey sky.",
-      "ts": "2026-09-24T15:38:43Z"
     }
   ]
 }
