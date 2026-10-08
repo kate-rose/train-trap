@@ -1,7 +1,22 @@
 {
-  "generated": "2026-10-07T07:39:16Z",
+  "generated": "2026-10-08T14:49:59Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-10-07_01_8a46e6.jpg",
+      "caption": "A dark tank car carries a flowing white line-drawing of a winged figure or creature along its lower half, a composed pictorial piece that stands out on the black shell. The white XOMX car from the previous frame is now clipped at the right.",
+      "ts": "2026-10-07T16:54:40Z"
+    },
+    {
+      "url": "gallery/2026-10-07_02_5eba98.jpg",
+      "caption": "A cream-colored NOLX 852653 hopper carries a low, full-length pictorial piece of stylized characters and faces in muted yellow and brown tones, the image rather than letters doing the work. It is a composed, character-driven mural running along the bottom of the car.",
+      "ts": "2026-10-07T23:48:32Z"
+    },
+    {
+      "url": "gallery/2026-10-07_03_f4f2a8.jpg",
+      "caption": "A faded pictorial mural of a winged figure and a mountain range is painted in muted gray on the rust-colored side of a hopper, the image rather than lettering carrying the piece. The car sits center frame, flanked by a dark tank car and a white hopper.",
+      "ts": "2026-10-07T18:49:15Z"
+    },
     {
       "url": "gallery/2026-10-06_01_269373.jpg",
       "caption": "A TILX boxcar 550318 is the real find: a large friendly panda face painted on the right end, paired with a blue-and-yellow wildstyle piece on the left. The character work is composed and intentional, making this a standout car on the train.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-27_01_831855.jpg",
       "caption": "The same composed character piece on BNSF hopper 475253 — a sunglasses-wearing figure with a raised fist in grey, white, and red, plus a circular emblem — is fully in frame here. The intentional imagery stands out on the dark red panel.",
       "ts": "2026-09-27T23:42:28Z"
-    },
-    {
-      "url": "gallery/2026-09-26_01_05b473.jpg",
-      "caption": "A composed botanical mural of green leaves and pale blossoms sweeps the lower half of a brown BNSF boxcar 476708, framed by white GATX hoppers on either side, the round road symbol untouched above.",
-      "ts": "2026-09-26T18:31:29Z"
-    },
-    {
-      "url": "gallery/2026-09-26_02_edf012.jpg",
-      "caption": "A mustard-yellow TTX intermodal well car carries a composed piece along its lower half: a row of colorful character and figure work in blues, greens, and pinks running the length of the panel, set against the dark TTX door. The car is lettered TTX 78 0X 63 93.",
-      "ts": "2026-09-26T18:00:56Z"
-    },
-    {
-      "url": "gallery/2026-09-26_02_68d4d5.jpg",
-      "caption": "The same green and yellow wildstyle piece with a character figure is now centered in frame on a WFRX boxcar lettered 806113. A blue and green tag sits on the car to the right.",
-      "ts": "2026-09-26T00:21:32Z"
     }
   ]
 }
