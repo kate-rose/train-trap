@@ -1,7 +1,22 @@
 {
-  "generated": "2026-10-08T14:49:59Z",
+  "generated": "2026-10-09T07:54:34Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-10-08_01_7c970e.jpg",
+      "caption": "A painted portrait of a character is the focal point on this BNSF 498133 hopper, rendered in earthy tones against the maroon body. The piece is well-composed and centered on the visible side.",
+      "ts": "2026-10-08T17:46:24Z"
+    },
+    {
+      "url": "gallery/2026-10-08_02_6a462c.jpg",
+      "caption": "A composed piece fills the lower panel of a maroon BNSF hopper 474130: a green and blue cartoon character with a raised hand stands beside a large white-outlined 'EIADU' letterform, a clean, intentional composition. The car rolls past a wide river with a tree-lined far shore and a hazy snow-capped peak.",
+      "ts": "2026-10-08T18:06:53Z"
+    },
+    {
+      "url": "gallery/2026-10-08_03_16f95e.jpg",
+      "caption": "A composed piece on a CEFX 630914 boxcar pairs dark bubble letters with a central character figure, giving the dusty shell a real focal point. The car crosses the lakefront trestle with the forested far shore behind it.",
+      "ts": "2026-10-08T19:02:23Z"
+    },
     {
       "url": "gallery/2026-10-07_01_8a46e6.jpg",
       "caption": "A dark tank car carries a flowing white line-drawing of a winged figure or creature along its lower half, a composed pictorial piece that stands out on the black shell. The white XOMX car from the previous frame is now clipped at the right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-09-29_02_fa3780.jpg",
       "caption": "A striking monochrome piece covers the side of COER boxcar 311668, its large black letterforms set against a cracked, marble-like grey ground that fills the whole panel. The high-contrast, composed design reads as intentional art rather than a quick tag, a standout piece on the train.",
       "ts": "2026-09-29T23:32:27Z"
-    },
-    {
-      "url": "gallery/2026-09-28_02_5871f3.jpg",
-      "caption": "A multi-color piece on a BNSF 473110 hopper features a green character with a face next to stylized orange and blue lettering. The artwork is composed and intentional, with a distinct character element.",
-      "ts": "2026-09-28T00:05:40Z"
-    },
-    {
-      "url": "gallery/2026-09-28_03_5871f3.jpg",
-      "caption": "A bold white and green throw-up spelling 'SURB' with a stylized face character worked into the lettering dominates the side of a maroon BNSF hopper 481957. The piece reads clean against the factory paint, with a BNSF unit trailing behind on the left.",
-      "ts": "2026-09-28T00:05:56Z"
-    },
-    {
-      "url": "gallery/2026-09-27_01_831855.jpg",
-      "caption": "The same composed character piece on BNSF hopper 475253 — a sunglasses-wearing figure with a raised fist in grey, white, and red, plus a circular emblem — is fully in frame here. The intentional imagery stands out on the dark red panel.",
-      "ts": "2026-09-27T23:42:28Z"
     }
   ]
 }
