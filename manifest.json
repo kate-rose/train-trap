@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-07T09:07:36Z",
+  "generated": "2026-11-08T13:04:26Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-08_01_e3f0dd.jpg",
+      "caption": "A tan boxcar carrying a large, multi-colored graffiti piece with illegible lettering on its lower half. The car is moving, causing motion blur that softens the edges of the artwork.",
+      "ts": "2026-11-08T00:24:27Z"
+    },
+    {
+      "url": "gallery/2026-11-08_02_e3f0dd.jpg",
+      "caption": "The same white \"SKLO\" throw-up is visible on a dark tank car, now positioned on the left side of the frame as the train moves. It is a simple, single-color letter piece on a black tank car, passing in front of a calm lake and a distant, tree-lined shore under a flat, overcast sky.",
+      "ts": "2026-11-08T00:25:26Z"
+    },
+    {
+      "url": "gallery/2026-11-08_03_e3f0dd.jpg",
+      "caption": "A quick, single-color white throw-up reads \"SKLO\" on the side of a dark tank car, with a second smaller tag further right. It is a routine letter piece on a black tank car, passing in front of a calm lake and a distant, tree-lined shore under a flat, overcast sky.",
+      "ts": "2026-11-08T00:25:25Z"
+    },
     {
       "url": "gallery/2026-11-06_01_ae6bdf.jpg",
       "caption": "A wildstyle piece in lime green and dark blue with character-like eyes and fill work covers the side of a maroon BNSF hopper, lettered 473912. The car rolls past a lake with a snow-capped peak on the horizon.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-10-01_03_2daf20.jpg",
       "caption": "A dark brown boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
       "ts": "2026-10-01T15:07:55Z"
-    },
-    {
-      "url": "gallery/2026-09-30_01_35d564.jpg",
-      "caption": "A wildstyle throw-up in green, red, and white sits low along the BNSF 492646 side, layered blocky letters with a touch of character work. It reads as a proper multi-color piece against the maroon panel.",
-      "ts": "2026-09-30T23:10:22Z"
-    },
-    {
-      "url": "gallery/2026-09-30_02_fb2ef4.jpg",
-      "caption": "A green and brown BNSF boxcar is centered on the track, featuring a long, multi-colored throw-up in white, red, and blue with black outlines running along the lower panel. The piece is a standard letter-based piece with a colorful fill.",
-      "ts": "2026-09-30T14:59:23Z"
-    },
-    {
-      "url": "gallery/2026-09-30_03_fb2ef4.jpg",
-      "caption": "A green and brown BNSF boxcar 270045 is centered on the track, featuring a long, multi-colored throw-up in white, red, and blue with black outlines running along the lower panel. The piece is a standard letter-based piece with a colorful fill.",
-      "ts": "2026-09-30T14:59:23Z"
     }
   ]
 }
