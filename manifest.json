@@ -1,16 +1,31 @@
 {
-  "generated": "2026-11-08T13:04:26Z",
+  "generated": "2026-11-09T09:30:03Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-09_01_1857eb.jpg",
+      "caption": "A striking monochrome wildstyle piece with heavy flowing linework and a figure-like form dominates the maroon boxcar side. The piece is rendered in grayscale tones against the dark red car, giving it a clean, intentional look.",
+      "ts": "2026-11-09T00:49:43Z"
+    },
     {
       "url": "gallery/2026-11-08_01_e3f0dd.jpg",
       "caption": "A tan boxcar carrying a large, multi-colored graffiti piece with illegible lettering on its lower half. The car is moving, causing motion blur that softens the edges of the artwork.",
       "ts": "2026-11-08T00:24:27Z"
     },
     {
+      "url": "gallery/2026-11-08_02_b67f0b.jpg",
+      "caption": "A yellow boxcar with a large white throw-up piece on its lower side. The car is lettered with a blue and red logo and sits on a track beside a lake with a forested shoreline and mountains in the distance.",
+      "ts": "2026-11-08T23:56:13Z"
+    },
+    {
       "url": "gallery/2026-11-08_02_e3f0dd.jpg",
       "caption": "The same white \"SKLO\" throw-up is visible on a dark tank car, now positioned on the left side of the frame as the train moves. It is a simple, single-color letter piece on a black tank car, passing in front of a calm lake and a distant, tree-lined shore under a flat, overcast sky.",
       "ts": "2026-11-08T00:25:26Z"
+    },
+    {
+      "url": "gallery/2026-11-08_03_b67f0b.jpg",
+      "caption": "A CN boxcar with a bold multi-color throw-up, the letters popping in red and white against the rust. The car is lettered CN and moving right.",
+      "ts": "2026-11-08T23:55:49Z"
     },
     {
       "url": "gallery/2026-11-08_03_e3f0dd.jpg",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-10-02_03_cda592.jpg",
       "caption": "The same lime-green throw-up with a cartoon face and purple bubbles sits on the cream COER boxcar 309779, now centered in frame with a maroon BNSF car entering at left. The piece reads clean against the pale body.",
       "ts": "2026-10-02T17:03:49Z"
-    },
-    {
-      "url": "gallery/2026-10-01_01_2daf20.jpg",
-      "caption": "A white block-letter piece reading 'SCE' or similar sits low on the right side of a brown boxcar, standing out against the dull factory paint. The car is lettered MOW, with a lake and a distant peak behind it.",
-      "ts": "2026-10-01T15:08:59Z"
-    },
-    {
-      "url": "gallery/2026-10-01_02_2daf20.jpg",
-      "caption": "A tan-colored boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
-      "ts": "2026-10-01T15:07:55Z"
-    },
-    {
-      "url": "gallery/2026-10-01_03_2daf20.jpg",
-      "caption": "A dark brown boxcar with a small, white graffiti tag on its lower side, positioned in a train moving past a scenic lake and forested hills. The car is identified by the road name \"MO RY\" on its side.",
-      "ts": "2026-10-01T15:07:55Z"
     }
   ]
 }
