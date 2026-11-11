@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-10T10:55:29Z",
+  "generated": "2026-11-11T14:00:24Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-10_01_b9cc2f.jpg",
+      "caption": "A full pictorial mural of stylized orange and blue fish runs the length of the lower panels, an intentional picture-first piece on a white TTX auto-carrier, reporting marks 300084, with a yellow throw-up at the left end.",
+      "ts": "2026-11-10T18:05:27Z"
+    },
+    {
+      "url": "gallery/2026-11-10_02_eda380.jpg",
+      "caption": "A composed piece featuring yellow lettering and a central character with a red face and blue outline sits on the side of a BNSF boxcar. The car is identified as BNSF 498156.",
+      "ts": "2026-11-10T23:39:56Z"
+    },
+    {
+      "url": "gallery/2026-11-10_03_3a70bd.jpg",
+      "caption": "A low, sprawling multi-color piece of pastel and pink figures sits along the lower panel of a maroon COER 321078 boxcar, while a large white block-letter piece dominates the adjacent BNSF car to the right. The train runs past a calm, tree-lined water body under a flat overcast sky.",
+      "ts": "2026-11-10T23:53:55Z"
+    },
     {
       "url": "gallery/2026-11-09_01_10f01d.jpg",
       "caption": "A TILX boxcar 550318 is covered in a large panda face with big black eyes and a colorful, patterned body, a composed pictorial piece that stands out. A BNSF hopper with a black tag is at the left edge.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-10-04_02_5a63c5.jpg",
       "caption": "A bold bubble-letter throw-up in cream and pink with a small character worked into the fill sits low on a maroon BNSF hopper lettered 475410, flanked by a circular logo on the right. The piece pops against the dark maroon panel.",
       "ts": "2026-10-04T15:02:24Z"
-    },
-    {
-      "url": "gallery/2026-10-04_02_96def1.jpg",
-      "caption": "The tail end of the maroon car shows the final letters of a white-outlined black piece, followed by a clean yellow-framed car. The train is moving past a calm river at dusk.",
-      "ts": "2026-10-04T01:41:52Z"
-    },
-    {
-      "url": "gallery/2026-10-04_03_b2f335.jpg",
-      "caption": "A tan UNION PACIFIC boxcar (TRCX 635261) carries a large green-and-black wildstyle piece with thick linework and bubble character work along its lower half. It is paired with the cream X-Press boxcar to its left.",
-      "ts": "2026-10-04T17:01:43Z"
-    },
-    {
-      "url": "gallery/2026-10-04_03_96def1.jpg",
-      "caption": "A large maroon car features bold, white-outlined black wildstyle lettering across its side. The train is moving past a calm river at dusk.",
-      "ts": "2026-10-04T01:41:51Z"
     }
   ]
 }
