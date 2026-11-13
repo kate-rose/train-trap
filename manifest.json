@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-12T10:09:45Z",
+  "generated": "2026-11-13T15:38:26Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-12_01_f53c36.jpg",
+      "caption": "A full-length, multi-color mural runs along the bottom of this orange-framed louvered auto-rack: bold lettering in pink, blue and yellow, a large dark 'M', and a circular sun-like character with a figure, all worked into a composed, picture-first piece. It is an orange auto-carrier passing a lake.",
+      "ts": "2026-11-12T20:40:00Z"
+    },
+    {
+      "url": "gallery/2026-11-12_02_48a9ae.jpg",
+      "caption": "A composed character piece in green with a Santa-hat figure and a small brown character is painted across the lower panel of a cream BNSF boxcar reporting 314499. It is a deliberate, picture-first work rather than plain lettering.",
+      "ts": "2026-11-12T18:20:58Z"
+    },
+    {
+      "url": "gallery/2026-11-12_03_796b0d.jpg",
+      "caption": "A BNSF hopper 497429 features a striking piece with a realistic, black-and-white portrait of a face wearing a hood, integrated with green and white lettering. The character work is detailed and stands out as a focal point of the pass.",
+      "ts": "2026-11-12T21:58:48Z"
+    },
     {
       "url": "gallery/2026-11-11_01_6f90c5.jpg",
       "caption": "A detailed anime-style character with silver hair and a yellow outfit is painted on the side of a maroon BNSF hopper, 491947. The piece stands out against the dark red paint of the car.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-10-06_02_269373.jpg",
       "caption": "A full-length piece of green and purple bubble letters with character work and stars fills the side of a COER hopper lettered 321045.",
       "ts": "2026-10-06T23:11:19Z"
-    },
-    {
-      "url": "gallery/2026-10-06_02_0eb51c.jpg",
-      "caption": "A bold, composed piece of thick white block letters on a dark background dominates the side of BNSF hopper 479369, with smaller white tags above. It is the strongest, most intentional work in the pass.",
-      "ts": "2026-10-06T00:22:58Z"
-    },
-    {
-      "url": "gallery/2026-10-06_03_269373.jpg",
-      "caption": "A BNSF hopper 478949 carries a yellow-outlined throw-up along the bottom with a small character figure worked in on the right. The bright yellow linework is the star of the car.",
-      "ts": "2026-10-06T23:12:09Z"
-    },
-    {
-      "url": "gallery/2026-10-05_03_e799b7.jpg",
-      "caption": "A yellow TTX boxcar carries a row of outlined blockbusters and small character tags along its lower panel, the most composed paint yet on the train. The TB OX car from the prior frame trails at the right.",
-      "ts": "2026-10-05T15:47:31Z"
     }
   ]
 }
