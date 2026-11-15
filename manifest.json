@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-14T09:17:47Z",
+  "generated": "2026-11-15T15:32:00Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-14_01_ddc4a0.jpg",
+      "caption": "A large pictorial piece in teal and purple with geometric, architectural imagery dominates the side of a well car, a composed mural-scale work. A yellow TBOX intermodal well car with a red logo is on the right.",
+      "ts": "2026-11-14T17:44:30Z"
+    },
+    {
+      "url": "gallery/2026-11-14_02_ddc4a0.jpg",
+      "caption": "The teal-and-purple pictorial mural on the well car is now centered, its blocky architectural shapes and shading clearly readable. A yellow TBOX intermodal well car with white graffiti sits to the right.",
+      "ts": "2026-11-14T17:44:30Z"
+    },
+    {
+      "url": "gallery/2026-11-14_03_ddc4a0.jpg",
+      "caption": "A full row of white, round-headed cartoon characters with simple faces is painted along the bottom of a yellow auto-rack, creating a playful mural-like effect. The car is moving right-to-left, with another yellow unit visible at the right edge.",
+      "ts": "2026-11-14T17:43:20Z"
+    },
     {
       "url": "gallery/2026-11-13_01_c0aafa.jpg",
       "caption": "A large, hand-painted pink and purple character piece dominates the side of a BNSF hopper, featuring flowing linework and a prominent circular white logo at the center. The car is lettered BNSF 475840 and moves past a misty river crossing.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-10-08_03_16f95e.jpg",
       "caption": "A composed piece on a CEFX 630914 boxcar pairs dark bubble letters with a central character figure, giving the dusty shell a real focal point. The car crosses the lakefront trestle with the forested far shore behind it.",
       "ts": "2026-10-08T19:02:23Z"
-    },
-    {
-      "url": "gallery/2026-10-07_01_8a46e6.jpg",
-      "caption": "A dark tank car carries a flowing white line-drawing of a winged figure or creature along its lower half, a composed pictorial piece that stands out on the black shell. The white XOMX car from the previous frame is now clipped at the right.",
-      "ts": "2026-10-07T16:54:40Z"
-    },
-    {
-      "url": "gallery/2026-10-07_02_5eba98.jpg",
-      "caption": "A cream-colored NOLX 852653 hopper carries a low, full-length pictorial piece of stylized characters and faces in muted yellow and brown tones, the image rather than letters doing the work. It is a composed, character-driven mural running along the bottom of the car.",
-      "ts": "2026-10-07T23:48:32Z"
-    },
-    {
-      "url": "gallery/2026-10-07_03_f4f2a8.jpg",
-      "caption": "A faded pictorial mural of a winged figure and a mountain range is painted in muted gray on the rust-colored side of a hopper, the image rather than lettering carrying the piece. The car sits center frame, flanked by a dark tank car and a white hopper.",
-      "ts": "2026-10-07T18:49:15Z"
     }
   ]
 }
