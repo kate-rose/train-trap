@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-15T15:32:00Z",
+  "generated": "2026-11-16T18:13:34Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-15_01_0a9a57.jpg",
+      "caption": "A vibrant multi-color piece reading 'U BETTER CHILL' in bubble letters with a rainbow fill and black drop shadows covers the lower half of a white GATX boxcar. The piece is composed and playful, standing out against the plain white panel.",
+      "ts": "2026-11-15T19:31:40Z"
+    },
+    {
+      "url": "gallery/2026-11-15_02_ec3862.jpg",
+      "caption": "A white CEFX hopper car featuring a low, multi-colored piece along its lower panel, including a row of green bubble letters and a small character with a crown. The paint is modest but adds a splash of color to the otherwise plain car.",
+      "ts": "2026-11-15T18:34:55Z"
+    },
+    {
+      "url": "gallery/2026-11-15_03_b4793f.jpg",
+      "caption": "A multi-color piece with white and blue letters and a small character in the center is painted low on a dark red BNSF hopper, number 477950. The piece is a standard throw-up style with some imagery worked into the letters.",
+      "ts": "2026-11-15T20:37:50Z"
+    },
     {
       "url": "gallery/2026-11-14_01_ddc4a0.jpg",
       "caption": "A large pictorial piece in teal and purple with geometric, architectural imagery dominates the side of a well car, a composed mural-scale work. A yellow TBOX intermodal well car with a red logo is on the right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-06_03_ae6bdf.jpg",
       "caption": "A multi-colored piece with green, purple, and yellow lettering is on the side of a BNSF hopper. The piece is a bit smaller and less bold than the previous one, but still a solid piece of graffiti.",
       "ts": "2026-11-06T17:28:47Z"
-    },
-    {
-      "url": "gallery/2026-10-08_01_7c970e.jpg",
-      "caption": "A painted portrait of a character is the focal point on this BNSF 498133 hopper, rendered in earthy tones against the maroon body. The piece is well-composed and centered on the visible side.",
-      "ts": "2026-10-08T17:46:24Z"
-    },
-    {
-      "url": "gallery/2026-10-08_02_6a462c.jpg",
-      "caption": "A composed piece fills the lower panel of a maroon BNSF hopper 474130: a green and blue cartoon character with a raised hand stands beside a large white-outlined 'EIADU' letterform, a clean, intentional composition. The car rolls past a wide river with a tree-lined far shore and a hazy snow-capped peak.",
-      "ts": "2026-10-08T18:06:53Z"
-    },
-    {
-      "url": "gallery/2026-10-08_03_16f95e.jpg",
-      "caption": "A composed piece on a CEFX 630914 boxcar pairs dark bubble letters with a central character figure, giving the dusty shell a real focal point. The car crosses the lakefront trestle with the forested far shore behind it.",
-      "ts": "2026-10-08T19:02:23Z"
     }
   ]
 }
