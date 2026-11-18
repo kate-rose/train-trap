@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-17T10:34:26Z",
+  "generated": "2026-11-18T10:34:23Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-17_01_a91936.jpg",
+      "caption": "A white hopper car carries a large, detailed mural featuring dark, stylized characters or figures across its entire side. The piece is a complex, composed work that stands out against the natural background.",
+      "ts": "2026-11-17T16:01:48Z"
+    },
+    {
+      "url": "gallery/2026-11-17_02_a91936.jpg",
+      "caption": "A colorful, multi-letter piece, possibly reading 'BUBA', is painted on the lower side of a BNSF boxcar, number 495257, in a mix of blue, orange, and white. The car is positioned centrally, with the clean boxcar from the previous frame now on its right.",
+      "ts": "2026-11-17T16:01:51Z"
+    },
+    {
+      "url": "gallery/2026-11-17_03_b7fa4b.jpg",
+      "caption": "A BNSF boxcar 470266 carries a long, multi-color piece of interlocked letters across its mid-panel, with a small character or emblem worked into the design on the right side. The piece is dense and colorful, a real effort on the maroon livery.",
+      "ts": "2026-11-17T16:30:18Z"
+    },
     {
       "url": "gallery/2026-11-16_01_63a3d4.jpg",
       "caption": "A dark hopper car painted with a multi-element piece of white and grey lettering plus small character shapes and a circular logo, moving past a plain white car on the right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-08_02_b67f0b.jpg",
       "caption": "A yellow boxcar with a large white throw-up piece on its lower side. The car is lettered with a blue and red logo and sits on a track beside a lake with a forested shoreline and mountains in the distance.",
       "ts": "2026-11-08T23:56:13Z"
-    },
-    {
-      "url": "gallery/2026-11-08_02_e3f0dd.jpg",
-      "caption": "The same white \"SKLO\" throw-up is visible on a dark tank car, now positioned on the left side of the frame as the train moves. It is a simple, single-color letter piece on a black tank car, passing in front of a calm lake and a distant, tree-lined shore under a flat, overcast sky.",
-      "ts": "2026-11-08T00:25:26Z"
-    },
-    {
-      "url": "gallery/2026-11-08_03_b67f0b.jpg",
-      "caption": "A CN boxcar with a bold multi-color throw-up, the letters popping in red and white against the rust. The car is lettered CN and moving right.",
-      "ts": "2026-11-08T23:55:49Z"
-    },
-    {
-      "url": "gallery/2026-11-08_03_e3f0dd.jpg",
-      "caption": "A quick, single-color white throw-up reads \"SKLO\" on the side of a dark tank car, with a second smaller tag further right. It is a routine letter piece on a black tank car, passing in front of a calm lake and a distant, tree-lined shore under a flat, overcast sky.",
-      "ts": "2026-11-08T00:25:25Z"
     }
   ]
 }
