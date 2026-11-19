@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-18T10:34:23Z",
+  "generated": "2026-11-19T09:18:56Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-18_01_023c73.jpg",
+      "caption": "The cream-and-yellow food-themed pictorial piece fills the lower panel of a maroon BNSF boxcar, 485643, the BNSF logo still clean above it. The car sits centered against a grey river and forested far shore, a lone tree to its right.",
+      "ts": "2026-11-18T19:46:53Z"
+    },
+    {
+      "url": "gallery/2026-11-18_02_023c73.jpg",
+      "caption": "A white and green wildstyle piece with a circular emblem and flowing linework covers the side of a BNSF hopper (473456), the white block standing out against the maroon car. The pass runs along a lake with a forested far shore.",
+      "ts": "2026-11-18T19:47:28Z"
+    },
+    {
+      "url": "gallery/2026-11-18_03_18c58a.jpg",
+      "caption": "A tan boxcar displays the same painted gray angular shape with hatched lines and a blue block, a modest pictorial piece on a plain panel.",
+      "ts": "2026-11-18T19:24:26Z"
+    },
     {
       "url": "gallery/2026-11-17_01_a91936.jpg",
       "caption": "A white hopper car carries a large, detailed mural featuring dark, stylized characters or figures across its entire side. The piece is a complex, composed work that stands out against the natural background.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-09_02_73eef8.jpg",
       "caption": "A cream ICER hopper (311702) carries a long low band of green and red lettering along the lower panel, with a white character or figure worked into the middle of the piece. It is sandwiched between two maroon BNSF hoppers.",
       "ts": "2026-11-09T17:42:10Z"
-    },
-    {
-      "url": "gallery/2026-11-09_03_756ac7.jpg",
-      "caption": "A muted, multi-color piece of rounded letters and pale character shapes worked across the lower side of a brown boxcar, the only real paint in this pass. The car sits low in the frame behind a pile of lumber.",
-      "ts": "2026-11-09T16:49:36Z"
-    },
-    {
-      "url": "gallery/2026-11-08_01_e3f0dd.jpg",
-      "caption": "A tan boxcar carrying a large, multi-colored graffiti piece with illegible lettering on its lower half. The car is moving, causing motion blur that softens the edges of the artwork.",
-      "ts": "2026-11-08T00:24:27Z"
-    },
-    {
-      "url": "gallery/2026-11-08_02_b67f0b.jpg",
-      "caption": "A yellow boxcar with a large white throw-up piece on its lower side. The car is lettered with a blue and red logo and sits on a track beside a lake with a forested shoreline and mountains in the distance.",
-      "ts": "2026-11-08T23:56:13Z"
     }
   ]
 }
