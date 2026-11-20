@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-19T09:18:56Z",
+  "generated": "2026-11-20T09:00:39Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-19_01_0bd28a.jpg",
+      "caption": "A small blue character piece with a stylized face is worked into a patch of white lettering along the lower side of a dark TCIx tank car lettered 250837. The car sits on the near track with a second tank car passing on the far track behind the trees.",
+      "ts": "2026-11-19T17:08:33Z"
+    },
+    {
+      "url": "gallery/2026-11-19_02_17414e.jpg",
+      "caption": "A bold red and white letter piece covers the lower half of a TTX intermodal well car, standing out against the yellow body. A black UTLX tank car follows closely behind on the right.",
+      "ts": "2026-11-19T19:15:09Z"
+    },
+    {
+      "url": "gallery/2026-11-19_03_17414e.jpg",
+      "caption": "A multi-color wildstyle piece in blue, white, and green fills the lower left panel of a TTX intermodal well car, with a matching purple and blue throw-up on the right. The car is lettered TTX 675480 and bears a red and blue 'X' logo. The scene is a tree-lined trackside against a hazy lake on an overcast day.",
+      "ts": "2026-11-19T19:15:07Z"
+    },
     {
       "url": "gallery/2026-11-18_01_023c73.jpg",
       "caption": "The cream-and-yellow food-themed pictorial piece fills the lower panel of a maroon BNSF boxcar, 485643, the BNSF logo still clean above it. The car sits centered against a grey river and forested far shore, a lone tree to its right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-10_03_3a70bd.jpg",
       "caption": "A low, sprawling multi-color piece of pastel and pink figures sits along the lower panel of a maroon COER 321078 boxcar, while a large white block-letter piece dominates the adjacent BNSF car to the right. The train runs past a calm, tree-lined water body under a flat overcast sky.",
       "ts": "2026-11-10T23:53:55Z"
-    },
-    {
-      "url": "gallery/2026-11-09_01_10f01d.jpg",
-      "caption": "A TILX boxcar 550318 is covered in a large panda face with big black eyes and a colorful, patterned body, a composed pictorial piece that stands out. A BNSF hopper with a black tag is at the left edge.",
-      "ts": "2026-11-09T16:24:44Z"
-    },
-    {
-      "url": "gallery/2026-11-09_01_1857eb.jpg",
-      "caption": "A striking monochrome wildstyle piece with heavy flowing linework and a figure-like form dominates the maroon boxcar side. The piece is rendered in grayscale tones against the dark red car, giving it a clean, intentional look.",
-      "ts": "2026-11-09T00:49:43Z"
-    },
-    {
-      "url": "gallery/2026-11-09_02_73eef8.jpg",
-      "caption": "A cream ICER hopper (311702) carries a long low band of green and red lettering along the lower panel, with a white character or figure worked into the middle of the piece. It is sandwiched between two maroon BNSF hoppers.",
-      "ts": "2026-11-09T17:42:10Z"
     }
   ]
 }
