@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-21T15:12:40Z",
+  "generated": "2026-11-22T08:40:43Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-21_01_87da4c.jpg",
+      "caption": "A maroon boxcar carries a dense, multi-color piece in pinks, teals, and whites along its lower side, with a small character figure worked into the lettering. A tan TTX well car with blue tag work is sliding in at the right.",
+      "ts": "2026-11-21T23:05:01Z"
+    },
+    {
+      "url": "gallery/2026-11-21_02_87da4c.jpg",
+      "caption": "A maroon boxcar shows a busy multi-color piece in whites, pinks, and teals along its lower side, with a small character figure in the middle. A tan TTX well car with a blue 'REP' tag is at the left edge.",
+      "ts": "2026-11-21T23:05:02Z"
+    },
+    {
+      "url": "gallery/2026-11-21_03_010872.jpg",
+      "caption": "A multi-color piece in teal, orange, and white with a small character or shape worked into the lettering splashes across the left panel of a maroon BNSF hopper. The motion blurs the linework, but the burst of color against the bare car makes it the standout of the pass.",
+      "ts": "2026-11-21T15:45:59Z"
+    },
     {
       "url": "gallery/2026-11-20_01_39e35d.jpg",
       "caption": "A colorful mural of stylized characters fills the lower panel of a tan TTX boxcar, the figures rendered in bright blues and pinks with bold outlines. The car is partly obscured by a foreground pine as it moves past a dark tank car.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-12_03_796b0d.jpg",
       "caption": "A BNSF hopper 497429 features a striking piece with a realistic, black-and-white portrait of a face wearing a hood, integrated with green and white lettering. The character work is detailed and stands out as a focal point of the pass.",
       "ts": "2026-11-12T21:58:48Z"
-    },
-    {
-      "url": "gallery/2026-11-11_01_6f90c5.jpg",
-      "caption": "A detailed anime-style character with silver hair and a yellow outfit is painted on the side of a maroon BNSF hopper, 491947. The piece stands out against the dark red paint of the car.",
-      "ts": "2026-11-11T20:47:18Z"
-    },
-    {
-      "url": "gallery/2026-11-11_02_886216.jpg",
-      "caption": "The green boxcar is fully in frame, showing a composed piece: white stencil text across the top, a large white 'N' logo, and a blue and white wildstyle lettering run with character work along the bottom. A grey boxcar follows at the right edge.",
-      "ts": "2026-11-11T23:59:26Z"
-    },
-    {
-      "url": "gallery/2026-11-11_03_6f90c5.jpg",
-      "caption": "A multi-color wildstyle piece in pink, green, and blue with character work sits low along the panel of a maroon BNSF boxcar 492170, with the big white BNSF logo still reading above it.",
-      "ts": "2026-11-11T20:46:57Z"
     }
   ]
 }
