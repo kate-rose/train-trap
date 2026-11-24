@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-23T13:31:23Z",
+  "generated": "2026-11-24T12:15:19Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-23_01_febd5c.jpg",
+      "caption": "A muted, multi-colored character mural with organic shapes and shading covers the lower side of a cream boxcar, the kind of composed piece this camera exists to catch. The train rolls past a wide, hazy river with a tree-lined far shore under a heavy overcast sky.",
+      "ts": "2026-11-23T16:14:32Z"
+    },
+    {
+      "url": "gallery/2026-11-23_02_b64666.jpg",
+      "caption": "A cream boxcar carries a chunky white character with a grinning face and a matching purple block-letter throw-up, a small multi-color piece that pops against the off-white panel. The car is lettered COER 131117 at the left end.",
+      "ts": "2026-11-23T19:00:25Z"
+    },
+    {
+      "url": "gallery/2026-11-23_03_febd5c.jpg",
+      "caption": "A multi-color piece with red and purple lettering and a green splash sits low on a maroon BNSF boxcar, the letters stacked in two rows. The car is lettered BNSF 489167, moving past tall pines and a river under a flat grey sky.",
+      "ts": "2026-11-23T16:14:02Z"
+    },
     {
       "url": "gallery/2026-11-22_01_5fd92d.jpg",
       "caption": "A multi-color piece with a small character and lettering sits low on the brown boxcar's side, the standout art of the pass. A brown boxcar rolls past a lake with a tagged neighbor to its right.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-14_03_ddc4a0.jpg",
       "caption": "A full row of white, round-headed cartoon characters with simple faces is painted along the bottom of a yellow auto-rack, creating a playful mural-like effect. The car is moving right-to-left, with another yellow unit visible at the right edge.",
       "ts": "2026-11-14T17:43:20Z"
-    },
-    {
-      "url": "gallery/2026-11-13_01_c0aafa.jpg",
-      "caption": "A large, hand-painted pink and purple character piece dominates the side of a BNSF hopper, featuring flowing linework and a prominent circular white logo at the center. The car is lettered BNSF 475840 and moves past a misty river crossing.",
-      "ts": "2026-11-13T21:17:20Z"
-    },
-    {
-      "url": "gallery/2026-11-13_02_c0aafa.jpg",
-      "caption": "A multi-color piece on a maroon BNSF boxcar 476853 mixes wildstyle lettering with purple and green character work and flame accents, a composed piece well worth a look.",
-      "ts": "2026-11-13T21:15:42Z"
-    },
-    {
-      "url": "gallery/2026-11-13_03_c0aafa.jpg",
-      "caption": "The yellow 'ARCO' throw-up with its blue-and-white character face sits fully in frame on the maroon BNSF 472399 boxcar, the face and lettering crisp against the dark red. A multi-color piece is visible on the car to the right.",
-      "ts": "2026-11-13T21:16:07Z"
     }
   ]
 }
