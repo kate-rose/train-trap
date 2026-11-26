@@ -1,7 +1,22 @@
 {
-  "generated": "2026-11-24T12:15:19Z",
+  "generated": "2026-11-26T00:10:18Z",
   "live": null,
   "images": [
+    {
+      "url": "gallery/2026-11-24_01_5b9a50.jpg",
+      "caption": "A pink-and-white bubble-letter tag with a small character worked into the lower panel of a maroon BNSF boxcar, the lettering softened by motion blur.",
+      "ts": "2026-11-24T22:19:36Z"
+    },
+    {
+      "url": "gallery/2026-11-24_02_36bea1.jpg",
+      "caption": "A low multi-color piece runs along the side of a grey boxcar: a green shape beside a tan bear-like figure, with blocky lettering to the left. A clean car is clipped at the right edge.",
+      "ts": "2026-11-24T22:58:34Z"
+    },
+    {
+      "url": "gallery/2026-11-24_03_36bea1.jpg",
+      "caption": "The same low multi-color piece on a grey boxcar, a green shape and tan animal figure with blocky lettering, is the only paint on an otherwise plain car. A clean car is clipped at the right.",
+      "ts": "2026-11-24T22:58:34Z"
+    },
     {
       "url": "gallery/2026-11-23_01_febd5c.jpg",
       "caption": "A muted, multi-colored character mural with organic shapes and shading covers the lower side of a cream boxcar, the kind of composed piece this camera exists to catch. The train rolls past a wide, hazy river with a tree-lined far shore under a heavy overcast sky.",
@@ -136,21 +151,6 @@
       "url": "gallery/2026-11-15_03_b4793f.jpg",
       "caption": "A multi-color piece with white and blue letters and a small character in the center is painted low on a dark red BNSF hopper, number 477950. The piece is a standard throw-up style with some imagery worked into the letters.",
       "ts": "2026-11-15T20:37:50Z"
-    },
-    {
-      "url": "gallery/2026-11-14_01_ddc4a0.jpg",
-      "caption": "A large pictorial piece in teal and purple with geometric, architectural imagery dominates the side of a well car, a composed mural-scale work. A yellow TBOX intermodal well car with a red logo is on the right.",
-      "ts": "2026-11-14T17:44:30Z"
-    },
-    {
-      "url": "gallery/2026-11-14_02_ddc4a0.jpg",
-      "caption": "The teal-and-purple pictorial mural on the well car is now centered, its blocky architectural shapes and shading clearly readable. A yellow TBOX intermodal well car with white graffiti sits to the right.",
-      "ts": "2026-11-14T17:44:30Z"
-    },
-    {
-      "url": "gallery/2026-11-14_03_ddc4a0.jpg",
-      "caption": "A full row of white, round-headed cartoon characters with simple faces is painted along the bottom of a yellow auto-rack, creating a playful mural-like effect. The car is moving right-to-left, with another yellow unit visible at the right edge.",
-      "ts": "2026-11-14T17:43:20Z"
     }
   ]
 }
